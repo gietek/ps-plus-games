@@ -1,0 +1,376 @@
+┌─────────┬─────────────────────────────────────────────────────────┬───────┐
+│ (index) │                          title                          │ score │
+├─────────┼─────────────────────────────────────────────────────────┼───────┤
+│    0    │                       'Absolver'                        │  69   │
+│    1    │                         'ABZU'                          │  78   │
+│    2    │                    'Ace of Seafood'                     │  NaN  │
+│    3    │                        'Adr1ft'                         │  56   │
+│    4    │          'Agatha Christie - The ABC Murders*'           │   0   │
+│    5    │              'Age of Wonders: Planetfall'               │  78   │
+│    6    │                   'Agents of Mayhem'                    │  62   │
+│    7    │                      'ALIENATION'                       │  79   │
+│    8    │                     "Akiba's Beat*"                     │   0   │
+│    9    │                      'AO Tennis 2'                      │  69   │
+│   10    │                        'Aragami'                        │  71   │
+│   11    │                'Ash of Gods Redemption'                 │  65   │
+│   12    │                        'Ashen*'                         │   0   │
+│   13    │               "Assassin's Creed Valhalla"               │   0   │
+│   14    │              'Assetto Corsa Competizione'               │  71   │
+│   15    │                       'Astebreed'                       │  82   │
+│   16    │                    'AVICII Invector'                    │  80   │
+│   17    │                     'Back to Bed*'                      │   0   │
+│   18    │                       'Bad North'                       │  NaN  │
+│   19    │                   'Balan Wonderworld'                   │  44   │
+│   20    │                 'Batman: Arkham Knight'                 │  87   │
+│   21    │               'Battle Chasers: Nightwar'                │  75   │
+│   22    │                     'Bee Simulator'                     │  47   │
+│   23    │                     'Black Mirror'                      │  54   │
+│   24    │                      'Blasphemous'                      │  78   │
+│   25    │                      'Bloodborne'                       │  92   │
+│   26    │           'Bloodstained: Ritual of the Night'           │  83   │
+│   27    │                      'Bomber Crew'                      │  NaN  │
+│   28    │                         'Bound'                         │  71   │
+│   29    │                    'Bound by Flame'                     │  53   │
+│   30    │                       'Brawlout'                        │  61   │
+│   31    │             'Brothers: A Tale of Two Sons'              │  81   │
+│   32    │            'Bubsy: The Woolies Strike Back'             │  45   │
+│   33    │                    'Caladrius Blaze'                    │  6.9  │
+│   34    │                    'Call of Cthulhu'                    │  63   │
+│   35    │                'Carmageddon: Max Damage'                │  51   │
+│   36    │           'Cartoon Network: Battle Crashers'            │  21   │
+│   37    │                'Car Mechanic Simulator'                 │  6.3  │
+│   38    │                        'Celeste'                        │  91   │
+│   39    │                      'Chess Ultra'                      │  5.6  │
+│   40    │                    'Chicken Police'                     │   0   │
+│   41    │                    'Child of Light'                     │  82   │
+│   42    │                   'Children of Morta'                   │  80   │
+│   43    │        "Chocobo's Mystery Dungeon EVERY BUDDY!"         │   0   │
+│   44    │               'Chronos: Before the Ashes'               │  68   │
+│   45    │                   'Cities: Skylines'                    │   0   │
+│   46    │                 'Clouds &amp; Sheep 2'                  │   0   │
+│   47    │                    'Concrete Genie'                     │  75   │
+│   48    │        'Concrete Genie: Digital Deluxe Edition'         │   0   │
+│   49    │                      'ConnecTank'                       │  NaN  │
+│   50    │               'Control: Ultimate Edition'               │  7.2  │
+│   51    │                      'Cris Tales'                       │  70   │
+│   52    │                    'Croixleur Sigma'                    │  71   │
+│   53    │       'Damascus Gear: Operation Tokyo HD Edition'       │   0   │
+│   54    │                      'Danger Zone'                      │  64   │
+│   55    │                    'Dangerous Golf'                     │  56   │
+│   56    │            'Dandara: Trials of Fear Edition'            │   0   │
+│   57    │                  'Dark Rose Valkyrie'                   │  58   │
+│   58    │                  'Darksiders Genesis'                   │  77   │
+│   59    │                    'Darksiders III'                     │  64   │
+│   60    │                       'Days Gone'                       │  71   │
+│   61    │                    'DCL - The Game'                     │  NaN  │
+│   62    │                      'Dead Cells'                       │  87   │
+│   63    │              'DEAD OR ALIVE 5 Last Round'               │  74   │
+│   64    │                  'Death end re;Quest'                   │   0   │
+│   65    │                  'Death end re;Quest2'                  │   0   │
+│   66    │                     'Death Squared'                     │  72   │
+│   67    │                    'DEATH STRANDING'                    │  82   │
+│   68    │            "DEATH STRANDING: DIRECTOR'S CUT"            │   0   │
+│   69    │                    'Defense Grid 2'                     │  77   │
+│   70    │                  'Deliver Us the Moon'                  │  77   │
+│   71    │                     "DEMON'S SOULS"                     │   0   │
+│   72    │                 'Detroit: Become Human'                 │  78   │
+│   73    │                      'Descenders'                       │  75   │
+│   74    │                    'Desperados III'                     │  82   │
+│   75    │                 'Destruction Allstars'                  │   0   │
+│   76    │        'Disaster Report 4 Plus: Summer Memories'        │   0   │
+│   77    │           'DISGAEA 5: ALLIANCE OF VENGEANCE'            │  80   │
+│   78    │                         'DOOM'                          │  85   │
+│   79    │                  'Dragon Star Varnir'                   │  75   │
+│   80    │                  'Dreamfall Chapters'                   │  67   │
+│   81    │                      'Dungeons 2'                       │  61   │
+│   82    │              'Dynasty Warriors 8 Empires'               │  63   │
+│   83    │                     'Eagle Flight'                      │  73   │
+│   84    │  'Earth Defense Force 4.1: The Shadow of New Despair'   │   0   │
+│   85    │                 'Electronic Super Joy'                  │  NaN  │
+│   86    │              'El Hijo - A Wild West Tale'               │   0   │
+│   87    │                         'Elex'                          │  58   │
+│   88    │                         'Embr'                          │  NaN  │
+│   89    │                     'Empire of Sin'                     │  43   │
+│   90    │         'Enigmatis: The Ghosts of Maple Creek'          │  6.8  │
+│   91    │                   'Enter the Gungeon'                   │  82   │
+│   92    │                       'Entwined'                        │  59   │
+│   93    │                       'EVERSPACE'                       │  78   │
+│   94    │                   "Everybody's Golf"                    │   0   │
+│   95    │                    'Fade to Silence'                    │  55   │
+│   96    │                       'Fallout 4'                       │  87   │
+│   97    │                      'Fallout 76'                       │  53   │
+│   98    │        'Far Cry 3 Blood Dragon: Classic Edition'        │   0   │
+│   99    │              'Far Cry 3: Classic Edition'               │  70   │
+│   100   │                       'Far Cry 4'                       │  85   │
+│   101   │        'FIA European Truck Racing Championship'         │  60   │
+│   102   │         'FIGHTING EX LAYER - Standard Version'          │   0   │
+│   103   │                   'Final Fantasy IX'                    │  85   │
+│   104   │                   'Final Fantasy VII'                   │  8.4  │
+│   105   │             'Final Fantasy VIII Remastered'             │  80   │
+│   106   │            'Final Fantasy X/X-2 HD Remaster'            │   0   │
+│   107   │           'Final Fantasy XII The Zodiac Age'            │  86   │
+│   108   │            'Final Fantasy XV Royal Edition'             │  77   │
+│   109   │               'Fire Pro Wrestling World*'               │   0   │
+│   110   │              'Flatout 4: Total Insanity*'               │   0   │
+│   111   │                     'FLUSTER CLUCK'                     │  37   │
+│   112   │                       'For Honor'                       │  78   │
+│   113   │                      'Foreclosed'                       │  64   │
+│   114   │               'Friday the 13th: The Game'               │  61   │
+│   115   │              'Frostpunk: Console Edition'               │  87   │
+│   116   │                    'Fury Unleashed'                     │  78   │
+│   117   │                       'Gabbuchi'                        │  NaN  │
+│   118   │                  'GAL GUNVOLT BURST*'                   │   0   │
+│   119   │                       'Get Even'                        │  71   │
+│   120   │                    'Ghost of a Tale'                    │  82   │
+│   121   │           "GHOST OF TSUSHIMA: DIRECTOR'S CUT"           │   0   │
+│   122   │                      'Ghostrunner'                      │  76   │
+│   123   │    "Giana Sisters: Twisted Dreams - Director's Cut"     │   0   │
+│   124   │                    'Gods will Fall'                     │  63   │
+│   125   │                'Golf with Your Friends'                 │  69   │
+│   126   │                      'GOD OF WAR'                       │  94   │
+│   127   │                 'Goosebumps: The Game'                  │  5.8  │
+│   128   │                    'Gravity Rush 2'                     │  80   │
+│   129   │                 'Grand Ages: Medieval'                  │  64   │
+│   130   │                   'Graveyard Keeper'                    │  6.2  │
+│   131   │                       'Greedfall'                       │  72   │
+│   132   │                  'GRIP: Combat Racing'                  │  71   │
+│   133   │        'GUNVOLT CHRONICLES LUMINOUS AVENGER IX'         │  5.2  │
+│   134   │      'HARVEST MOON LIGHT OF HOPE SPECIAL EDITION'       │   0   │
+│   135   │                'Harvest Moon: Mad Dash'                 │  NaN  │
+│   136   │                'Harvest Moon: One World'                │  2.8  │
+│   137   │                    'Hello Neighbor'                     │   5   │
+│   138   │           'Hollow Knight: Voidheart Edition'            │  85   │
+│   139   │               'Homefront: The Revolution'               │  48   │
+│   140   │          'Horizon Zero Dawn Complete Edition'           │  8.5  │
+│   141   │             'Hotline Miami 2: Wrong Number'             │  75   │
+│   142   │                    'Hotshot Racing'                     │  77   │
+│   143   │                   'How to Survive 2'                    │  67   │
+│   144   │         'How to Survive: Storm Warning Edition'         │  65   │
+│   145   │                          'Hue'                          │  77   │
+│   146   │                    'Human Fall Flat'                    │  67   │
+│   147   │                      'I am Bread'                       │  51   │
+│   148   │                       'I am Dead'                       │  NaN  │
+│   149   │                      'Indivisible'                      │  77   │
+│   150   │                 'inFAMOUS First Light'                  │  73   │
+│   151   │                  'inFAMOUS Second Son'                  │  80   │
+│   152   │                   'Infinite Minigolf'                   │  75   │
+│   153   │                      'Injustice 2'                      │  87   │
+│   154   │        "Joe Dever's Lone Wolf: Console Edition"         │   0   │
+│   155   │                     'John Wick Hex'                     │  78   │
+│   156   │                'Jotun: Valhalla Edition'                │  72   │
+│   157   │                      'JumpJet Rex'                      │  NaN  │
+│   158   │                         'KeyWe'                         │  NaN  │
+│   159   │           'Killzone: Shadow Fall Intercept*'            │   0   │
+│   160   │                 'KILLZONE SHADOW FALL'                  │  73   │
+│   161   │               'Kingdom Come: Deliverance'               │  69   │
+│   162   │                  'Kingdom Two Crowns'                   │  7.4  │
+│   163   │                  'Kingdom: New Lands'                   │  5.7  │
+│   164   │                         'KNACK'                         │  54   │
+│   165   │                         'Kona'                          │  71   │
+│   166   │                   'Last Day of June'                    │  75   │
+│   167   │                       'Last Stop'                       │   4   │
+│   168   │                 'Lawn Mowing Simulator'                 │  NaN  │
+│   169   │              'Left Alive: Day One Edition'              │   0   │
+│   170   │                   'Legendary Fishing'                   │  NaN  │
+│   171   │                  'Legends of Ethernal'                  │  NaN  │
+│   172   │             'LEGO Batman 3: Beyond Gotham'              │  73   │
+│   173   │                     "Leo's Fortune"                     │   0   │
+│   174   │                   'LittleBigPlanet 3'                   │  79   │
+│   175   │                  'Little Big Workshop'                  │  NaN  │
+│   176   │                   'Little Nightmares'                   │  78   │
+│   177   │              'Lost Words: Beyond the Page'              │  74   │
+│   178   │             'Mafia III: Definitive Edition'             │   7   │
+│   179   │                       'Magicka 2'                       │  72   │
+│   180   │                        'Mahjong'                        │  NaN  │
+│   181   │                   'Malicious Fallen'                    │  62   │
+│   182   │                       'Maneater'                        │  68   │
+│   183   │                  'Marvel Puzzle Quest'                  │   0   │
+│   184   │           "Marvel's Guardians of the Galaxy"            │   0   │
+│   185   │                  "Marvel's Spider-Man"                  │   0   │
+│   186   │           'MARVELS SPIDER-MAN MILES MORALES'            │  84   │
+│   187   │     "Marvel's Spider-Man: Game of the Year Edition"     │   0   │
+│   188   │                   'Masters of Anima'                    │  74   │
+│   189   │                      'MATTERFALL'                       │  72   │
+│   190   │                       'MediEvil'                        │  67   │
+│   191   │              'Megadimension Neptunia VII'               │  71   │
+│   192   │                     'Mighty No. 9'                      │   0   │
+│   193   │                         'Minit'                         │  81   │
+│   194   │                 'Mitsurugi Kamui Hikae'                 │  58   │
+│   195   │         'Momodora: Reverie Under the Moonlight'         │  76   │
+│   196   │              'Monster Jam Steel Titans 2'               │  61   │
+│   197   │              'Monster Truck Championship'               │  67   │
+│   198   │                      'Moonlighter'                      │  81   │
+│   199   │                   'Mortal Kombat 11'                    │  82   │
+│   200   │                      'Moving Out'                       │  74   │
+│   201   │                       'Mudrunner'                       │   0   │
+│   202   │                   'MX vs ATV All Out'                   │  42   │
+│   203   │                       'MXGP 2021'                       │   0   │
+│   204   │                    'My Friend Pedro'                    │  71   │
+│   205   │                   'My Time at Portia'                   │  75   │
+│   206   │       'Naruto Shippuden: Ultimate Ninja Storm 4'        │  79   │
+│   207   │                     'NASCAR Heat 5'                     │  63   │
+│   208   │                 'NBA 2K Playgrounds 2'                  │  73   │
+│   209   │                       'NBA 2K22'                        │  71   │
+│   210   │              'Necromunda: Underhive Wars'               │  59   │
+│   211   │                        'Nidhogg'                        │  6.5  │
+│   212   │                      'Nidhogg II'                       │   0   │
+│   213   │                    'Nights of Azure'                    │  67   │
+│   214   │       'Nights of Azure 2: Bride of the New Moon'        │  66   │
+│   215   │                         'Nioh'                          │  88   │
+│   216   │                   'No Straight Roads'                   │  70   │
+│   217   │                      'Observation'                      │  75   │
+│   218   │                'Observer: System Redux'                 │  NaN  │
+│   219   │                "Oddworld: New 'n' Tasty"                │   0   │
+│   220   │                     'Omega Quintet'                     │  58   │
+│   221   │                      'Outer Wilds'                      │  82   │
+│   222   │                     'Overcooked! 2'                     │  81   │
+│   223   │                       'Overpass'                        │  54   │
+│   224   │             'Override 2: Super Mech League'             │  52   │
+│   225   │                      'Party Hard'                       │  65   │
+│   226   │      'Pathfinder: Kingmaker - Definitive Edition'       │  74   │
+│   227   │              'Payday 2: Crimewave Edition'              │  71   │
+│   228   │                     'PGA Tour 2K21'                     │  76   │
+│   229   │                  'Pile Up! Box by Box'                  │  NaN  │
+│   230   │         'Pillars of Eternity: Complete Edition'         │  85   │
+│   231   │                     'Pixel Piracy'                      │  50   │
+│   232   │                    'Portal Knights'                     │  71   │
+│   233   │                   'Prison Architect'                    │  80   │
+│   234   │          'Power Rangers: Battle For The Grid'           │  65   │
+│   235   │                         'Prey'                          │  79   │
+│   236   │                   'Pure Farming 2018'                   │  68   │
+│   237   │         "Pure Hold'em World Poker Championship"         │   0   │
+│   238   │                       'Pure Pool'                       │  75   │
+│   239   │                      'Rad Rodgers'                      │  66   │
+│   240   │                 'Red Dead Redemption 2'                 │  97   │
+│   241   │              'Redeemer - Enhanced Edition'              │   0   │
+│   242   │           'Reel Fishing: Road Trip Adventure'           │  NaN  │
+│   243   │               "Raiden V: Director's Cut"                │   0   │
+│   244   │              'Rapala Fishing: Pro Series'               │  3.3  │
+│   245   │                     'Rebel Galaxy'                      │  64   │
+│   246   │                        'RESOGUN'                        │  84   │
+│   247   │                        'Relicta'                        │  71   │
+│   248   │                       'RETURNAL'                        │   0   │
+│   249   │                     'Rez Infinite'                      │  89   │
+│   250   │                        'RIDE 4'                         │  74   │
+│   251   │                  'Risk Urban Assault'                   │  61   │
+│   252   │           'Rock of Ages 3: Make &amp; Break'            │   0   │
+│   253   │                    'Rogue Stormers'                     │  69   │
+│   254   │          'Romance of The Three Kingdoms XIII'           │  67   │
+│   255   │                    'R-TYPE FINAL 2'                     │  73   │
+│   256   │           'Saints Row: The Third Remastered'            │  74   │
+│   257   │                  'Seasons After Fall'                   │  64   │
+│   258   │                    'Secret Neighbor'                    │  NaN  │
+│   259   │                  'Shadow of the Beast'                  │  64   │
+│   260   │                'Shadow of the Colossus'                 │  91   │
+│   261   │                   'Shadow Warrior 2'                    │  72   │
+│   262   │                   'Shadow Warrior 3'                    │  63   │
+│   263   │                      'Shenmue III'                      │  67   │
+│   264   │            'Shiness: The Lightning Kingdom'             │  67   │
+│   265   │                      'Sine Mora X'                      │   0   │
+│   266   │                   'SkyDrift Infinity'                   │  80   │
+│   267   │                     'Slime Rancher'                     │  69   │
+│   268   │                    'Sniper Elite 4'                     │  77   │
+│   269   │                         'SOMA'                          │  79   │
+│   270   │                    'Soulcalibur VI'                     │  84   │
+│   271   │          'South Park: The Fractured but Whole'          │  79   │
+│   272   │            'South Park: The Stick of Truth'             │   8   │
+│   273   │             'Space Crew: Legendary Edition'             │  NaN  │
+│   274   │       'Space Hulk: Deathwing - Enhanced Edition'        │   0   │
+│   275   │                  'Space Hulk: Tactics'                  │  68   │
+│   276   │                     'Space Junkies'                     │  63   │
+│   277   │                   'Sparkle Unleashed'                   │  NaN  │
+│   278   │                       'Spitlings'                       │  NaN  │
+│   279   │             'Star Ocean First Departure R'              │  73   │
+│   280   │                'Star Trek: Bridge Crew'                 │  75   │
+│   281   │              'Starlink: Battle for Atlas'               │  70   │
+│   282   │                         'Steep'                         │  71   │
+│   283   │              'Stellaris: Console Edition'               │  77   │
+│   284   │                     'Stranded Deep'                     │  65   │
+│   285   │              'Sundered: Eldritch Edition'               │   0   │
+│   286   │        'Surgeon Simulator: Anniversary Edition'         │  56   │
+│   287   │                    'Surviving Mars'                     │  73   │
+│   288   │                     'Telling Lies'                      │  79   │
+│   289   │                  'Tennis World Tour 2'                  │  56   │
+│   290   │                       'Terraria'                        │  83   │
+│   291   │               'Tetris Effect: Connected'                │  NaN  │
+│   292   │                   'Tearaway Unfolded'                   │  81   │
+│   293   │      'The Elder Scrolls Online: Tamriel Unlimited'      │  74   │
+│   294   │            'The Last Tinker: City of Colors'            │  66   │
+│   295   │                   'The Turing Test*'                    │   0   │
+│   296   │             'The Vanishing of Ethan Carter'             │  81   │
+│   297   │                   'The Artful Escape'                   │  NaN  │
+│   298   │             'The Book of Unwritten Tales 2'             │  63   │
+│   299   │             'The Caligula Effect: Overdose'             │  64   │
+│   300   │           'The Council - The Complete Season'           │   0   │
+│   301   │                       'The Crew'                        │  61   │
+│   302   │                      'The Crew 2'                       │  64   │
+│   303   │       'The Dark Pictures Anthology: Little Hope'        │  71   │
+│   304   │       'The Dark Pictures Anthology: Man of Medan'       │  69   │
+│   305   │            'The Fisherman - Fishing Planet'             │   0   │
+│   306   │                   'THE LAST GUARDIAN'                   │  82   │
+│   307   │               'The LEGO Movie Videogame'                │  71   │
+│   308   │                     'The Long Dark'                     │  75   │
+│   309   │                     'The Messenger'                     │  82   │
+│   310   │ 'The MISSING: J.J. Macfield and the Island of Memories' │   0   │
+│   311   │                       'The Surge'                       │  73   │
+│   312   │                      'The Surge 2'                      │  75   │
+│   313   │                   'The Technomancer'                    │  60   │
+│   314   │   'The Witch and the Hundred Knight: Revival Edition'   │  63   │
+│   315   │             'The Wonderful 101: Remastered'             │  76   │
+│   316   │                  'This is the Police'                   │  63   │
+│   317   │                 'This is the Police 2'                  │  5.8  │
+│   318   │           'This War of Mine: The Little Ones'           │  78   │
+│   319   │                   'Thomas was Alone'                    │  6.6  │
+│   320   │             'Through the Darkest of Times'              │  8.8  │
+│   321   │               "Tom Clancy's The Division"               │   0   │
+│   322   │                        'TorqueL'                        │  3.2  │
+│   323   │           'Totally Reliable Delivery Service'           │  55   │
+│   324   │                      'Toukiden 2'                       │  77   │
+│   325   │                  'TowerFall Ascension'                  │  87   │
+│   326   │             'Townsmen - A Kingdom Rebuilt'              │   0   │
+│   327   │           'Touhou Genso Rondo: Bullet Ballet'           │  55   │
+│   328   │                     'Tricky Towers'                     │  72   │
+│   329   │                       'Tropico 5'                       │  76   │
+│   330   │                   'Trackmania Turbo'                    │  81   │
+│   331   │                     'Transference'                      │  71   │
+│   332   │                     'Trials Fusion'                     │  79   │
+│   333   │              'Trials of the Blood Dragon'               │  55   │
+│   334   │                     'Trials Rising'                     │  79   │
+│   335   │             'Trine 4: The Nightmare Prince'             │  80   │
+│   336   │                      'TRON RUN/r'                       │   0   │
+│   337   │          'TT Isle of Man: Ride on the Edge 2'           │  74   │
+│   338   │              "Uncharted 4: A Thief's End"               │   0   │
+│   339   │              'Uncharted: The Lost Legacy'               │  84   │
+│   340   │                      'Until Dawn'                       │  79   │
+│   341   │                       'Unturned'                        │  1.8  │
+│   342   │             'Valiant Hearts: The Great War'             │  77   │
+│   343   │                        'Vampyr'                         │  70   │
+│   344   │                       'Velocibox'                       │  62   │
+│   345   │             'Victor Vran Overkill Edition'              │  76   │
+│   346   │              'Vikings - Wolves of Midgard'              │   0   │
+│   347   │                       'Virginia'                        │  77   │
+│   348   │         'Warhammer 40,000: Inquisitor - Martyr'         │   0   │
+│   349   │         'Warhammer: Chaosbane - Slayer Edition'         │   0   │
+│   350   │                'Warhammer: Vermintide 2'                │  81   │
+│   351   │                  'WARRIORS ALL-STARS'                   │  70   │
+│   352   │                      'Watch Dogs'                       │  80   │
+│   353   │         'Werewolf: The Apocalypse - Earthblood'         │  42   │
+│   354   │                   'Werewolves Within'                   │  76   │
+│   355   │                  'Wild Guns Reloaded'                   │  74   │
+│   356   │                       'Windbound'                       │  64   │
+│   357   │                'World of Final Fantasy'                 │  77   │
+│   358   │                  'Whispering Willows'                   │  63   │
+│   359   │              'Wolfenstein: The New Order'               │  79   │
+│   360   │          'WRC 10 FIA World Rally Championship'          │   0   │
+│   361   │                       'Wreckfest'                       │  82   │
+│   362   │                       'Wytchwood'                       │  NaN  │
+│   363   │                        'XCOM 2'                         │  87   │
+│   364   │              'Yet Another Zombie Defense'               │   0   │
+│   365   │                  'Ys IX: Monstrum Nox'                  │  80   │
+│   366   │              'Ys VIII: Lacrimosa of DANA'               │  85   │
+│   367   │                         'ZOMBI'                         │  71   │
+│   368   │                'Zombie Army 4: Dead War'                │  72   │
+│   369   │                         '2Dark'                         │  54   │
+│   370   │                     '8-Bit Armies'                      │  70   │
+│   371   │                 '9 Monkeys of Shaolin'                  │  71   │
+└─────────┴─────────────────────────────────────────────────────────┴───────┘

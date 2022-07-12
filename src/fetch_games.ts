@@ -16,8 +16,12 @@ export const fetchGames = async () => {
 
   const games = tabsContent.querySelectorAll(".txt-style-base");
   const titles = Array.from(games).map((node) => {
-    const title = node.innerText.trim();
-    const path = title.toLowerCase().replace(/:/g, "").replace(/ /g, "-");
+    const title = node.innerText.trim().replace(/\*/g, "");
+    const path = title
+      .toLowerCase()
+      .replace(/:/g, "")
+      .replace(/'/g, "")
+      .replace(/ /g, "-");
     const url = `${metacriticBaseUrl}${path}`;
 
     return {

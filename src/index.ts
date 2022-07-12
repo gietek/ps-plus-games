@@ -4,6 +4,7 @@ import { fetchScore } from "./fetch_score";
 interface Score {
   title: string;
   score: number;
+  url: string;
 }
 
 const start = async () => {
@@ -11,14 +12,23 @@ const start = async () => {
 
   let scores: Score[] = [];
 
-  const gamesCount = games.length;
-
   for (let game of games) {
     const { title, url } = game;
-    console.log(`... processing ${title}`);
     const score = await fetchScore(url);
-    scores.push({ title, score });
+    scores.push({ title, score, url });
   }
+
+  scores.sort((a, b) => {
+    if (a.score > b.score) {
+      return -1;
+    }
+
+    if (a.score < b.score) {
+      return 1;
+    }
+
+    return 0;
+  });
 
   console.table(scores);
 };

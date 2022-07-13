@@ -12,7 +12,16 @@ export const fetchScore = async (url: string): Promise<number> => {
 
     if (score) {
       const res = parseFloat(score.textContent);
-      return isNaN(res) ? 0 : res;
+
+      if (isNaN(res)) {
+        return 0;
+      }
+
+      if (res < 10) {
+        return 10 * res; // user score is 0-10
+      }
+
+      return res;
     } else {
       throw new Error();
     }

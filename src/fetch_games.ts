@@ -22,6 +22,7 @@ export const fetchGames = async () => {
       .replace(/:/g, "")
       .replace(/'/g, "")
       .replace(/;/g, "")
+      .replace(/-&amp;/g, "")
       .replace(/ /g, "-");
     const url = `${metacriticBaseUrl}${path}`;
 

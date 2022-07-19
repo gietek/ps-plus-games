@@ -5,354 +5,354 @@
 │    1    │                      'GOD OF WAR'                       │  94   │                      'https://www.metacritic.com/game/playstation-4/god-of-war'                      │
 │    2    │              "Uncharted 4: A Thief's End"               │  93   │               'https://www.metacritic.com/game/playstation-4/uncharted-4-a-thiefs-end'               │
 │    3    │                      'Bloodborne'                       │  92   │                      'https://www.metacritic.com/game/playstation-4/bloodborne'                      │
-│    4    │                        'Celeste'                        │  91   │                       'https://www.metacritic.com/game/playstation-4/celeste'                        │
-│    5    │                'Shadow of the Colossus'                 │  91   │                'https://www.metacritic.com/game/playstation-4/shadow-of-the-colossus'                │
-│    6    │                     'Rez Infinite'                      │  89   │                     'https://www.metacritic.com/game/playstation-4/rez-infinite'                     │
-│    7    │                         'Nioh'                          │  88   │                         'https://www.metacritic.com/game/playstation-4/nioh'                         │
-│    8    │             'Through the Darkest of Times'              │  88   │             'https://www.metacritic.com/game/playstation-4/through-the-darkest-of-times'             │
-│    9    │                 'Batman: Arkham Knight'                 │  87   │                 'https://www.metacritic.com/game/playstation-4/batman-arkham-knight'                 │
-│   10    │                      'Dead Cells'                       │  87   │                      'https://www.metacritic.com/game/playstation-4/dead-cells'                      │
-│   11    │                       'Fallout 4'                       │  87   │                      'https://www.metacritic.com/game/playstation-4/fallout-4'                       │
-│   12    │              'Frostpunk: Console Edition'               │  87   │              'https://www.metacritic.com/game/playstation-4/frostpunk-console-edition'               │
-│   13    │                      'Injustice 2'                      │  87   │                     'https://www.metacritic.com/game/playstation-4/injustice-2'                      │
-│   14    │                  "Marvel's Spider-Man"                  │  87   │                  'https://www.metacritic.com/game/playstation-4/marvels-spider-man'                  │
-│   15    │                  'TowerFall Ascension'                  │  87   │                 'https://www.metacritic.com/game/playstation-4/towerfall-ascension'                  │
-│   16    │                        'XCOM 2'                         │  87   │                        'https://www.metacritic.com/game/playstation-4/xcom-2'                        │
-│   17    │           'Final Fantasy XII The Zodiac Age'            │  86   │           'https://www.metacritic.com/game/playstation-4/final-fantasy-xii-the-zodiac-age'           │
-│   18    │                         'DOOM'                          │  85   │                         'https://www.metacritic.com/game/playstation-4/doom'                         │
-│   19    │                       'Far Cry 4'                       │  85   │                      'https://www.metacritic.com/game/playstation-4/far-cry-4'                       │
-│   20    │                   'Final Fantasy IX'                    │  85   │                   'https://www.metacritic.com/game/playstation-4/final-fantasy-ix'                   │
-│   21    │           'Hollow Knight: Voidheart Edition'            │  85   │           'https://www.metacritic.com/game/playstation-4/hollow-knight-voidheart-edition'            │
-│   22    │          'Horizon Zero Dawn Complete Edition'           │  85   │          'https://www.metacritic.com/game/playstation-4/horizon-zero-dawn-complete-edition'          │
-│   23    │         'Pillars of Eternity: Complete Edition'         │  85   │         'https://www.metacritic.com/game/playstation-4/pillars-of-eternity-complete-edition'         │
-│   24    │              'Ys VIII: Lacrimosa of DANA'               │  85   │              'https://www.metacritic.com/game/playstation-4/ys-viii-lacrimosa-of-dana'               │
-│   25    │                   'Final Fantasy VII'                   │  84   │                  'https://www.metacritic.com/game/playstation-4/final-fantasy-vii'                   │
-│   26    │           'MARVELS SPIDER-MAN MILES MORALES'            │  84   │           'https://www.metacritic.com/game/playstation-4/marvels-spider-man-miles-morales'           │
-│   27    │                        'RESOGUN'                        │  84   │                       'https://www.metacritic.com/game/playstation-4/resogun'                        │
-│   28    │                    'Soulcalibur VI'                     │  84   │                    'https://www.metacritic.com/game/playstation-4/soulcalibur-vi'                    │
-│   29    │              'Uncharted: The Lost Legacy'               │  84   │              'https://www.metacritic.com/game/playstation-4/uncharted-the-lost-legacy'               │
-│   30    │           'Bloodstained: Ritual of the Night'           │  83   │           'https://www.metacritic.com/game/playstation-4/bloodstained-ritual-of-the-night'           │
-│   31    │           "Marvel's Guardians of the Galaxy"            │  83   │           'https://www.metacritic.com/game/playstation-4/marvels-guardians-of-the-galaxy'            │
-│   32    │                       'Terraria'                        │  83   │                       'https://www.metacritic.com/game/playstation-4/terraria'                       │
-│   33    │                       'Astebreed'                       │  82   │                      'https://www.metacritic.com/game/playstation-4/astebreed'                       │
-│   34    │                    'Child of Light'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/child-of-light'                    │
-│   35    │                    'DEATH STRANDING'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/death-stranding'                    │
-│   36    │                    'Desperados III'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/desperados-iii'                    │
-│   37    │                   'Enter the Gungeon'                   │  82   │                  'https://www.metacritic.com/game/playstation-4/enter-the-gungeon'                   │
-│   38    │                    'Ghost of a Tale'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/ghost-of-a-tale'                    │
-│   39    │                   'Mortal Kombat 11'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/mortal-kombat-11'                   │
-│   40    │                      'Outer Wilds'                      │  82   │                     'https://www.metacritic.com/game/playstation-4/outer-wilds'                      │
-│   41    │                   'THE LAST GUARDIAN'                   │  82   │                  'https://www.metacritic.com/game/playstation-4/the-last-guardian'                   │
-│   42    │                     'The Messenger'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/the-messenger'                     │
-│   43    │                       'Wreckfest'                       │  82   │                      'https://www.metacritic.com/game/playstation-4/wreckfest'                       │
-│   44    │             'Brothers: A Tale of Two Sons'              │  81   │             'https://www.metacritic.com/game/playstation-4/brothers-a-tale-of-two-sons'              │
-│   45    │                         'Minit'                         │  81   │                        'https://www.metacritic.com/game/playstation-4/minit'                         │
-│   46    │                      'Moonlighter'                      │  81   │                     'https://www.metacritic.com/game/playstation-4/moonlighter'                      │
-│   47    │                     'Overcooked! 2'                     │  81   │                    'https://www.metacritic.com/game/playstation-4/overcooked!-2'                     │
-│   48    │                   'Tearaway Unfolded'                   │  81   │                  'https://www.metacritic.com/game/playstation-4/tearaway-unfolded'                   │
-│   49    │             'The Vanishing of Ethan Carter'             │  81   │            'https://www.metacritic.com/game/playstation-4/the-vanishing-of-ethan-carter'             │
-│   50    │                   'Trackmania Turbo'                    │  81   │                   'https://www.metacritic.com/game/playstation-4/trackmania-turbo'                   │
-│   51    │                'Warhammer: Vermintide 2'                │  81   │                'https://www.metacritic.com/game/playstation-4/warhammer-vermintide-2'                │
-│   52    │               "Assassin's Creed Valhalla"               │  80   │               'https://www.metacritic.com/game/playstation-4/assassins-creed-valhalla'               │
-│   53    │                    'AVICII Invector'                    │  80   │                   'https://www.metacritic.com/game/playstation-4/avicii-invector'                    │
-│   54    │                   'Children of Morta'                   │  80   │                  'https://www.metacritic.com/game/playstation-4/children-of-morta'                   │
-│   55    │           'DISGAEA 5: ALLIANCE OF VENGEANCE'            │  80   │           'https://www.metacritic.com/game/playstation-4/disgaea-5-alliance-of-vengeance'            │
-│   56    │             'Final Fantasy VIII Remastered'             │  80   │            'https://www.metacritic.com/game/playstation-4/final-fantasy-viii-remastered'             │
-│   57    │    "Giana Sisters: Twisted Dreams - Director's Cut"     │  80   │     'https://www.metacritic.com/game/playstation-4/giana-sisters-twisted-dreams---directors-cut'     │
-│   58    │                    'Gravity Rush 2'                     │  80   │                    'https://www.metacritic.com/game/playstation-4/gravity-rush-2'                    │
-│   59    │                  'inFAMOUS Second Son'                  │  80   │                 'https://www.metacritic.com/game/playstation-4/infamous-second-son'                  │
-│   60    │                   'Prison Architect'                    │  80   │                   'https://www.metacritic.com/game/playstation-4/prison-architect'                   │
-│   61    │                   'SkyDrift Infinity'                   │  80   │                  'https://www.metacritic.com/game/playstation-4/skydrift-infinity'                   │
-│   62    │            'South Park: The Stick of Truth'             │  80   │            'https://www.metacritic.com/game/playstation-4/south-park-the-stick-of-truth'             │
-│   63    │               "Tom Clancy's The Division"               │  80   │               'https://www.metacritic.com/game/playstation-4/tom-clancys-the-division'               │
-│   64    │             'Trine 4: The Nightmare Prince'             │  80   │             'https://www.metacritic.com/game/playstation-4/trine-4-the-nightmare-prince'             │
-│   65    │                      'Watch Dogs'                       │  80   │                      'https://www.metacritic.com/game/playstation-4/watch-dogs'                      │
-│   66    │                  'Ys IX: Monstrum Nox'                  │  80   │                  'https://www.metacritic.com/game/playstation-4/ys-ix-monstrum-nox'                  │
-│   67    │                      'ALIENATION'                       │  79   │                      'https://www.metacritic.com/game/playstation-4/alienation'                      │
-│   68    │               'Fire Pro Wrestling World'                │  79   │               'https://www.metacritic.com/game/playstation-4/fire-pro-wrestling-world'               │
-│   69    │        "Joe Dever's Lone Wolf: Console Edition"         │  79   │         'https://www.metacritic.com/game/playstation-4/joe-devers-lone-wolf-console-edition'         │
-│   70    │                   'LittleBigPlanet 3'                   │  79   │                  'https://www.metacritic.com/game/playstation-4/littlebigplanet-3'                   │
-│   71    │       'Naruto Shippuden: Ultimate Ninja Storm 4'        │  79   │       'https://www.metacritic.com/game/playstation-4/naruto-shippuden-ultimate-ninja-storm-4'        │
-│   72    │                         'Prey'                          │  79   │                         'https://www.metacritic.com/game/playstation-4/prey'                         │
-│   73    │                         'SOMA'                          │  79   │                         'https://www.metacritic.com/game/playstation-4/soma'                         │
-│   74    │          'South Park: The Fractured but Whole'          │  79   │          'https://www.metacritic.com/game/playstation-4/south-park-the-fractured-but-whole'          │
-│   75    │                     'Telling Lies'                      │  79   │                     'https://www.metacritic.com/game/playstation-4/telling-lies'                     │
-│   76    │                     'Trials Fusion'                     │  79   │                    'https://www.metacritic.com/game/playstation-4/trials-fusion'                     │
-│   77    │                     'Trials Rising'                     │  79   │                    'https://www.metacritic.com/game/playstation-4/trials-rising'                     │
-│   78    │                      'Until Dawn'                       │  79   │                      'https://www.metacritic.com/game/playstation-4/until-dawn'                      │
-│   79    │              'Wolfenstein: The New Order'               │  79   │              'https://www.metacritic.com/game/playstation-4/wolfenstein-the-new-order'               │
-│   80    │                         'ABZU'                          │  78   │                         'https://www.metacritic.com/game/playstation-4/abzu'                         │
-│   81    │              'Age of Wonders: Planetfall'               │  78   │              'https://www.metacritic.com/game/playstation-4/age-of-wonders-planetfall'               │
-│   82    │                      'Blasphemous'                      │  78   │                     'https://www.metacritic.com/game/playstation-4/blasphemous'                      │
-│   83    │                 'Detroit: Become Human'                 │  78   │                 'https://www.metacritic.com/game/playstation-4/detroit-become-human'                 │
-│   84    │                       'EVERSPACE'                       │  78   │                      'https://www.metacritic.com/game/playstation-4/everspace'                       │
-│   85    │                   "Everybody's Golf"                    │  78   │                   'https://www.metacritic.com/game/playstation-4/everybodys-golf'                    │
-│   86    │                       'For Honor'                       │  78   │                      'https://www.metacritic.com/game/playstation-4/for-honor'                       │
-│   87    │                    'Fury Unleashed'                     │  78   │                    'https://www.metacritic.com/game/playstation-4/fury-unleashed'                    │
-│   88    │                     'John Wick Hex'                     │  78   │                    'https://www.metacritic.com/game/playstation-4/john-wick-hex'                     │
-│   89    │                   'Little Nightmares'                   │  78   │                  'https://www.metacritic.com/game/playstation-4/little-nightmares'                   │
-│   90    │           'This War of Mine: The Little Ones'           │  78   │           'https://www.metacritic.com/game/playstation-4/this-war-of-mine-the-little-ones'           │
-│   91    │                  'Darksiders Genesis'                   │  77   │                  'https://www.metacritic.com/game/playstation-4/darksiders-genesis'                  │
-│   92    │                    'Defense Grid 2'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/defense-grid-2'                    │
-│   93    │                  'Deliver Us the Moon'                  │  77   │                 'https://www.metacritic.com/game/playstation-4/deliver-us-the-moon'                  │
-│   94    │            'Final Fantasy XV Royal Edition'             │  77   │            'https://www.metacritic.com/game/playstation-4/final-fantasy-xv-royal-edition'            │
-│   95    │                    'Hotshot Racing'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/hotshot-racing'                    │
-│   96    │                          'Hue'                          │  77   │                         'https://www.metacritic.com/game/playstation-4/hue'                          │
-│   97    │                      'Indivisible'                      │  77   │                     'https://www.metacritic.com/game/playstation-4/indivisible'                      │
-│   98    │                    'Sniper Elite 4'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/sniper-elite-4'                    │
-│   99    │              'Stellaris: Console Edition'               │  77   │              'https://www.metacritic.com/game/playstation-4/stellaris-console-edition'               │
-│   100   │                      'Toukiden 2'                       │  77   │                      'https://www.metacritic.com/game/playstation-4/toukiden-2'                      │
-│   101   │             'Valiant Hearts: The Great War'             │  77   │             'https://www.metacritic.com/game/playstation-4/valiant-hearts-the-great-war'             │
-│   102   │                       'Virginia'                        │  77   │                       'https://www.metacritic.com/game/playstation-4/virginia'                       │
-│   103   │                'World of Final Fantasy'                 │  77   │                'https://www.metacritic.com/game/playstation-4/world-of-final-fantasy'                │
-│   104   │                      'Ghostrunner'                      │  76   │                     'https://www.metacritic.com/game/playstation-4/ghostrunner'                      │
-│   105   │         'Momodora: Reverie Under the Moonlight'         │  76   │         'https://www.metacritic.com/game/playstation-4/momodora-reverie-under-the-moonlight'         │
-│   106   │                     'PGA Tour 2K21'                     │  76   │                    'https://www.metacritic.com/game/playstation-4/pga-tour-2k21'                     │
-│   107   │             'The Wonderful 101: Remastered'             │  76   │             'https://www.metacritic.com/game/playstation-4/the-wonderful-101-remastered'             │
-│   108   │                       'Tropico 5'                       │  76   │                      'https://www.metacritic.com/game/playstation-4/tropico-5'                       │
-│   109   │             'Victor Vran Overkill Edition'              │  76   │             'https://www.metacritic.com/game/playstation-4/victor-vran-overkill-edition'             │
-│   110   │                   'Werewolves Within'                   │  76   │                  'https://www.metacritic.com/game/playstation-4/werewolves-within'                   │
-│   111   │               'Battle Chasers: Nightwar'                │  75   │               'https://www.metacritic.com/game/playstation-4/battle-chasers-nightwar'                │
-│   112   │                    'Concrete Genie'                     │  75   │                    'https://www.metacritic.com/game/playstation-4/concrete-genie'                    │
-│   113   │                      'Descenders'                       │  75   │                      'https://www.metacritic.com/game/playstation-4/descenders'                      │
-│   114   │                  'Dragon Star Varnir'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/dragon-star-varnir'                  │
-│   115   │             'Hotline Miami 2: Wrong Number'             │  75   │             'https://www.metacritic.com/game/playstation-4/hotline-miami-2-wrong-number'             │
-│   116   │                   'Infinite Minigolf'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/infinite-minigolf'                   │
-│   117   │                   'Last Day of June'                    │  75   │                   'https://www.metacritic.com/game/playstation-4/last-day-of-june'                   │
-│   118   │                   'My Time at Portia'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/my-time-at-portia'                   │
-│   119   │                      'Observation'                      │  75   │                     'https://www.metacritic.com/game/playstation-4/observation'                      │
-│   120   │                       'Pure Pool'                       │  75   │                      'https://www.metacritic.com/game/playstation-4/pure-pool'                       │
-│   121   │                'Star Trek: Bridge Crew'                 │  75   │                'https://www.metacritic.com/game/playstation-4/star-trek-bridge-crew'                 │
-│   122   │                     'The Long Dark'                     │  75   │                    'https://www.metacritic.com/game/playstation-4/the-long-dark'                     │
-│   123   │                      'The Surge 2'                      │  75   │                     'https://www.metacritic.com/game/playstation-4/the-surge-2'                      │
-│   124   │              'DEAD OR ALIVE 5 Last Round'               │  74   │              'https://www.metacritic.com/game/playstation-4/dead-or-alive-5-last-round'              │
-│   125   │                  'Kingdom Two Crowns'                   │  74   │                  'https://www.metacritic.com/game/playstation-4/kingdom-two-crowns'                  │
-│   126   │              'Lost Words: Beyond the Page'              │  74   │              'https://www.metacritic.com/game/playstation-4/lost-words-beyond-the-page'              │
-│   127   │                   'Masters of Anima'                    │  74   │                   'https://www.metacritic.com/game/playstation-4/masters-of-anima'                   │
-│   128   │                      'Moving Out'                       │  74   │                      'https://www.metacritic.com/game/playstation-4/moving-out'                      │
-│   129   │      'Pathfinder: Kingmaker - Definitive Edition'       │  74   │      'https://www.metacritic.com/game/playstation-4/pathfinder-kingmaker---definitive-edition'       │
-│   130   │                        'RIDE 4'                         │  74   │                        'https://www.metacritic.com/game/playstation-4/ride-4'                        │
-│   131   │           'Saints Row: The Third Remastered'            │  74   │           'https://www.metacritic.com/game/playstation-4/saints-row-the-third-remastered'            │
-│   132   │      'The Elder Scrolls Online: Tamriel Unlimited'      │  74   │      'https://www.metacritic.com/game/playstation-4/the-elder-scrolls-online-tamriel-unlimited'      │
-│   133   │                    'The Turing Test'                    │  74   │                   'https://www.metacritic.com/game/playstation-4/the-turing-test'                    │
-│   134   │          'TT Isle of Man: Ride on the Edge 2'           │  74   │          'https://www.metacritic.com/game/playstation-4/tt-isle-of-man-ride-on-the-edge-2'           │
-│   135   │                  'Wild Guns Reloaded'                   │  74   │                  'https://www.metacritic.com/game/playstation-4/wild-guns-reloaded'                  │
-│   136   │               'Control: Ultimate Edition'               │  73   │               'https://www.metacritic.com/game/playstation-4/control-ultimate-edition'               │
-│   137   │                     'Eagle Flight'                      │  73   │                     'https://www.metacritic.com/game/playstation-4/eagle-flight'                     │
-│   138   │                 'inFAMOUS First Light'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/infamous-first-light'                 │
-│   139   │                 'KILLZONE SHADOW FALL'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/killzone-shadow-fall'                 │
-│   140   │             'LEGO Batman 3: Beyond Gotham'              │  73   │             'https://www.metacritic.com/game/playstation-4/lego-batman-3-beyond-gotham'              │
-│   141   │                 'NBA 2K Playgrounds 2'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/nba-2k-playgrounds-2'                 │
-│   142   │               "Raiden V: Director's Cut"                │  73   │                'https://www.metacritic.com/game/playstation-4/raiden-v-directors-cut'                │
-│   143   │                    'R-TYPE FINAL 2'                     │  73   │                    'https://www.metacritic.com/game/playstation-4/r-type-final-2'                    │
-│   144   │             'Star Ocean First Departure R'              │  73   │             'https://www.metacritic.com/game/playstation-4/star-ocean-first-departure-r'             │
-│   145   │                    'Surviving Mars'                     │  73   │                    'https://www.metacritic.com/game/playstation-4/surviving-mars'                    │
-│   146   │                       'The Surge'                       │  73   │                      'https://www.metacritic.com/game/playstation-4/the-surge'                       │
-│   147   │                     'Death Squared'                     │  72   │                    'https://www.metacritic.com/game/playstation-4/death-squared'                     │
-│   148   │              'El Hijo - A Wild West Tale'               │  72   │              'https://www.metacritic.com/game/playstation-4/el-hijo---a-wild-west-tale'              │
-│   149   │                       'Greedfall'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/greedfall'                       │
-│   150   │                'Jotun: Valhalla Edition'                │  72   │                'https://www.metacritic.com/game/playstation-4/jotun-valhalla-edition'                │
-│   151   │                       'Magicka 2'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/magicka-2'                       │
-│   152   │                      'MATTERFALL'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/matterfall'                      │
-│   153   │                   'Shadow Warrior 2'                    │  72   │                   'https://www.metacritic.com/game/playstation-4/shadow-warrior-2'                   │
-│   154   │                     'Tricky Towers'                     │  72   │                    'https://www.metacritic.com/game/playstation-4/tricky-towers'                     │
-│   155   │                'Zombie Army 4: Dead War'                │  72   │                'https://www.metacritic.com/game/playstation-4/zombie-army-4-dead-war'                │
-│   156   │                        'Aragami'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/aragami'                        │
-│   157   │              'Assetto Corsa Competizione'               │  71   │              'https://www.metacritic.com/game/playstation-4/assetto-corsa-competizione'              │
-│   158   │                         'Bound'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/bound'                         │
-│   159   │                    'Croixleur Sigma'                    │  71   │                   'https://www.metacritic.com/game/playstation-4/croixleur-sigma'                    │
-│   160   │                       'Days Gone'                       │  71   │                      'https://www.metacritic.com/game/playstation-4/days-gone'                       │
-│   161   │                  'Death end re;Quest'                   │  71   │                  'https://www.metacritic.com/game/playstation-4/death-end-request'                   │
-│   162   │                       'Get Even'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/get-even'                       │
-│   163   │                  'GRIP: Combat Racing'                  │  71   │                  'https://www.metacritic.com/game/playstation-4/grip-combat-racing'                  │
-│   164   │                         'Kona'                          │  71   │                         'https://www.metacritic.com/game/playstation-4/kona'                         │
-│   165   │              'Megadimension Neptunia VII'               │  71   │              'https://www.metacritic.com/game/playstation-4/megadimension-neptunia-vii'              │
-│   166   │                    'My Friend Pedro'                    │  71   │                   'https://www.metacritic.com/game/playstation-4/my-friend-pedro'                    │
-│   167   │                       'NBA 2K22'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/nba-2k22'                       │
-│   168   │              'Payday 2: Crimewave Edition'              │  71   │              'https://www.metacritic.com/game/playstation-4/payday-2-crimewave-edition'              │
-│   169   │                    'Portal Knights'                     │  71   │                    'https://www.metacritic.com/game/playstation-4/portal-knights'                    │
-│   170   │                        'Relicta'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/relicta'                        │
-│   171   │                         'Steep'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/steep'                         │
-│   172   │       'The Dark Pictures Anthology: Little Hope'        │  71   │       'https://www.metacritic.com/game/playstation-4/the-dark-pictures-anthology-little-hope'        │
-│   173   │               'The LEGO Movie Videogame'                │  71   │               'https://www.metacritic.com/game/playstation-4/the-lego-movie-videogame'               │
-│   174   │                     'Transference'                      │  71   │                     'https://www.metacritic.com/game/playstation-4/transference'                     │
-│   175   │                         'ZOMBI'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/zombi'                         │
-│   176   │                 '9 Monkeys of Shaolin'                  │  71   │                 'https://www.metacritic.com/game/playstation-4/9-monkeys-of-shaolin'                 │
-│   177   │                      'Cris Tales'                       │  70   │                      'https://www.metacritic.com/game/playstation-4/cris-tales'                      │
-│   178   │              'Far Cry 3: Classic Edition'               │  70   │              'https://www.metacritic.com/game/playstation-4/far-cry-3-classic-edition'               │
-│   179   │             'Mafia III: Definitive Edition'             │  70   │             'https://www.metacritic.com/game/playstation-4/mafia-iii-definitive-edition'             │
-│   180   │                   'No Straight Roads'                   │  70   │                  'https://www.metacritic.com/game/playstation-4/no-straight-roads'                   │
-│   181   │              'Starlink: Battle for Atlas'               │  70   │              'https://www.metacritic.com/game/playstation-4/starlink-battle-for-atlas'               │
-│   182   │                        'Vampyr'                         │  70   │                        'https://www.metacritic.com/game/playstation-4/vampyr'                        │
-│   183   │                  'WARRIORS ALL-STARS'                   │  70   │                  'https://www.metacritic.com/game/playstation-4/warriors-all-stars'                  │
-│   184   │                     '8-Bit Armies'                      │  70   │                     'https://www.metacritic.com/game/playstation-4/8-bit-armies'                     │
-│   185   │                       'Absolver'                        │  69   │                       'https://www.metacritic.com/game/playstation-4/absolver'                       │
-│   186   │                      'AO Tennis 2'                      │  69   │                     'https://www.metacritic.com/game/playstation-4/ao-tennis-2'                      │
-│   187   │                    'Caladrius Blaze'                    │  69   │                   'https://www.metacritic.com/game/playstation-4/caladrius-blaze'                    │
-│   188   │        "Chocobo's Mystery Dungeon EVERY BUDDY!"         │  69   │        'https://www.metacritic.com/game/playstation-4/chocobos-mystery-dungeon-every-buddy!'         │
-│   189   │                'Golf with Your Friends'                 │  69   │                'https://www.metacritic.com/game/playstation-4/golf-with-your-friends'                │
-│   190   │               'Kingdom Come: Deliverance'               │  69   │               'https://www.metacritic.com/game/playstation-4/kingdom-come-deliverance'               │
-│   191   │                    'Rogue Stormers'                     │  69   │                    'https://www.metacritic.com/game/playstation-4/rogue-stormers'                    │
-│   192   │                     'Slime Rancher'                     │  69   │                    'https://www.metacritic.com/game/playstation-4/slime-rancher'                     │
-│   193   │       'The Dark Pictures Anthology: Man of Medan'       │  69   │       'https://www.metacritic.com/game/playstation-4/the-dark-pictures-anthology-man-of-medan'       │
-│   194   │               'Chronos: Before the Ashes'               │  68   │               'https://www.metacritic.com/game/playstation-4/chronos-before-the-ashes'               │
-│   195   │         'Enigmatis: The Ghosts of Maple Creek'          │  68   │         'https://www.metacritic.com/game/playstation-4/enigmatis-the-ghosts-of-maple-creek'          │
-│   196   │                       'Maneater'                        │  68   │                       'https://www.metacritic.com/game/playstation-4/maneater'                       │
-│   197   │                   'Pure Farming 2018'                   │  68   │                  'https://www.metacritic.com/game/playstation-4/pure-farming-2018'                   │
-│   198   │                  'Space Hulk: Tactics'                  │  68   │                  'https://www.metacritic.com/game/playstation-4/space-hulk-tactics'                  │
-│   199   │           'Agatha Christie - The ABC Murders'           │  67   │          'https://www.metacritic.com/game/playstation-4/agatha-christie---the-abc-murders'           │
-│   200   │                  'Dreamfall Chapters'                   │  67   │                  'https://www.metacritic.com/game/playstation-4/dreamfall-chapters'                  │
-│   201   │                   'How to Survive 2'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/how-to-survive-2'                   │
-│   202   │                    'Human Fall Flat'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/human-fall-flat'                    │
-│   203   │                       'MediEvil'                        │  67   │                       'https://www.metacritic.com/game/playstation-4/medievil'                       │
-│   204   │              'Monster Truck Championship'               │  67   │              'https://www.metacritic.com/game/playstation-4/monster-truck-championship'              │
-│   205   │                    'Nights of Azure'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/nights-of-azure'                    │
-│   206   │              'Redeemer - Enhanced Edition'              │  67   │             'https://www.metacritic.com/game/playstation-4/redeemer---enhanced-edition'              │
-│   207   │          'Romance of The Three Kingdoms XIII'           │  67   │          'https://www.metacritic.com/game/playstation-4/romance-of-the-three-kingdoms-xiii'          │
-│   208   │                      'Shenmue III'                      │  67   │                     'https://www.metacritic.com/game/playstation-4/shenmue-iii'                      │
-│   209   │            'Shiness: The Lightning Kingdom'             │  67   │            'https://www.metacritic.com/game/playstation-4/shiness-the-lightning-kingdom'             │
-│   210   │              'Vikings - Wolves of Midgard'              │  67   │             'https://www.metacritic.com/game/playstation-4/vikings---wolves-of-midgard'              │
-│   211   │                     "Leo's Fortune"                     │  66   │                     'https://www.metacritic.com/game/playstation-4/leos-fortune'                     │
-│   212   │       'Nights of Azure 2: Bride of the New Moon'        │  66   │       'https://www.metacritic.com/game/playstation-4/nights-of-azure-2-bride-of-the-new-moon'        │
-│   213   │                      'Rad Rodgers'                      │  66   │                     'https://www.metacritic.com/game/playstation-4/rad-rodgers'                      │
-│   214   │            'The Last Tinker: City of Colors'            │  66   │            'https://www.metacritic.com/game/playstation-4/the-last-tinker-city-of-colors'            │
-│   215   │                   'Thomas was Alone'                    │  66   │                   'https://www.metacritic.com/game/playstation-4/thomas-was-alone'                   │
-│   216   │                'Ash of Gods Redemption'                 │  65   │                'https://www.metacritic.com/game/playstation-4/ash-of-gods-redemption'                │
-│   217   │         'How to Survive: Storm Warning Edition'         │  65   │         'https://www.metacritic.com/game/playstation-4/how-to-survive-storm-warning-edition'         │
-│   218   │                        'Nidhogg'                        │  65   │                       'https://www.metacritic.com/game/playstation-4/nidhogg'                        │
-│   219   │                      'Party Hard'                       │  65   │                      'https://www.metacritic.com/game/playstation-4/party-hard'                      │
-│   220   │          'Power Rangers: Battle For The Grid'           │  65   │          'https://www.metacritic.com/game/playstation-4/power-rangers-battle-for-the-grid'           │
-│   221   │                     'Stranded Deep'                     │  65   │                    'https://www.metacritic.com/game/playstation-4/stranded-deep'                     │
-│   222   │                      'Danger Zone'                      │  64   │                     'https://www.metacritic.com/game/playstation-4/danger-zone'                      │
-│   223   │                    'Darksiders III'                     │  64   │                    'https://www.metacritic.com/game/playstation-4/darksiders-iii'                    │
-│   224   │                      'Foreclosed'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/foreclosed'                      │
-│   225   │                 'Grand Ages: Medieval'                  │  64   │                 'https://www.metacritic.com/game/playstation-4/grand-ages-medieval'                  │
-│   226   │                     'Rebel Galaxy'                      │  64   │                     'https://www.metacritic.com/game/playstation-4/rebel-galaxy'                     │
-│   227   │                  'Seasons After Fall'                   │  64   │                  'https://www.metacritic.com/game/playstation-4/seasons-after-fall'                  │
-│   228   │                  'Shadow of the Beast'                  │  64   │                 'https://www.metacritic.com/game/playstation-4/shadow-of-the-beast'                  │
-│   229   │             'The Caligula Effect: Overdose'             │  64   │             'https://www.metacritic.com/game/playstation-4/the-caligula-effect-overdose'             │
-│   230   │                      'The Crew 2'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/the-crew-2'                      │
-│   231   │                       'Windbound'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/windbound'                       │
-│   232   │                         'Ashen'                         │  63   │                        'https://www.metacritic.com/game/playstation-4/ashen'                         │
-│   233   │                    'Call of Cthulhu'                    │  63   │                   'https://www.metacritic.com/game/playstation-4/call-of-cthulhu'                    │
-│   234   │                'Car Mechanic Simulator'                 │  63   │                'https://www.metacritic.com/game/playstation-4/car-mechanic-simulator'                │
-│   235   │              'Dynasty Warriors 8 Empires'               │  63   │              'https://www.metacritic.com/game/playstation-4/dynasty-warriors-8-empires'              │
-│   236   │           "GHOST OF TSUSHIMA: DIRECTOR'S CUT"           │  63   │           'https://www.metacritic.com/game/playstation-4/ghost-of-tsushima-directors-cut'            │
-│   237   │                    'Gods will Fall'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/gods-will-fall'                    │
-│   238   │                     'NASCAR Heat 5'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/nascar-heat-5'                     │
-│   239   │                   'Shadow Warrior 3'                    │  63   │                   'https://www.metacritic.com/game/playstation-4/shadow-warrior-3'                   │
-│   240   │                     'Space Junkies'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/space-junkies'                     │
-│   241   │             'The Book of Unwritten Tales 2'             │  63   │            'https://www.metacritic.com/game/playstation-4/the-book-of-unwritten-tales-2'             │
-│   242   │   'The Witch and the Hundred Knight: Revival Edition'   │  63   │   'https://www.metacritic.com/game/playstation-4/the-witch-and-the-hundred-knight-revival-edition'   │
-│   243   │                  'This is the Police'                   │  63   │                  'https://www.metacritic.com/game/playstation-4/this-is-the-police'                  │
-│   244   │                  'Whispering Willows'                   │  63   │                  'https://www.metacritic.com/game/playstation-4/whispering-willows'                  │
-│   245   │                   'Agents of Mayhem'                    │  62   │                   'https://www.metacritic.com/game/playstation-4/agents-of-mayhem'                   │
-│   246   │                      'Back to Bed'                      │  62   │                     'https://www.metacritic.com/game/playstation-4/back-to-bed'                      │
-│   247   │               'Flatout 4: Total Insanity'               │  62   │               'https://www.metacritic.com/game/playstation-4/flatout-4-total-insanity'               │
-│   248   │                   'Malicious Fallen'                    │  62   │                   'https://www.metacritic.com/game/playstation-4/malicious-fallen'                   │
-│   249   │                       'Velocibox'                       │  62   │                      'https://www.metacritic.com/game/playstation-4/velocibox'                       │
-│   250   │                       'Brawlout'                        │  61   │                       'https://www.metacritic.com/game/playstation-4/brawlout'                       │
-│   251   │                      'Dungeons 2'                       │  61   │                      'https://www.metacritic.com/game/playstation-4/dungeons-2'                      │
-│   252   │               'Friday the 13th: The Game'               │  61   │               'https://www.metacritic.com/game/playstation-4/friday-the-13th-the-game'               │
-│   253   │                   'Graveyard Keeper'                    │  61   │                   'https://www.metacritic.com/game/playstation-4/graveyard-keeper'                   │
-│   254   │              'Monster Jam Steel Titans 2'               │  61   │              'https://www.metacritic.com/game/playstation-4/monster-jam-steel-titans-2'              │
-│   255   │                  'Risk Urban Assault'                   │  61   │                  'https://www.metacritic.com/game/playstation-4/risk-urban-assault'                  │
-│   256   │                       'The Crew'                        │  61   │                       'https://www.metacritic.com/game/playstation-4/the-crew'                       │
-│   257   │        'FIA European Truck Racing Championship'         │  60   │        'https://www.metacritic.com/game/playstation-4/fia-european-truck-racing-championship'        │
-│   258   │                   'The Technomancer'                    │  60   │                   'https://www.metacritic.com/game/playstation-4/the-technomancer'                   │
-│   259   │                       'Entwined'                        │  59   │                       'https://www.metacritic.com/game/playstation-4/entwined'                       │
-│   260   │              'Necromunda: Underhive Wars'               │  59   │              'https://www.metacritic.com/game/playstation-4/necromunda-underhive-wars'               │
-│   261   │                  'Dark Rose Valkyrie'                   │  58   │                  'https://www.metacritic.com/game/playstation-4/dark-rose-valkyrie'                  │
-│   262   │                         'Elex'                          │  58   │                         'https://www.metacritic.com/game/playstation-4/elex'                         │
-│   263   │                 'Goosebumps: The Game'                  │  58   │                 'https://www.metacritic.com/game/playstation-4/goosebumps-the-game'                  │
-│   264   │                 'Mitsurugi Kamui Hikae'                 │  58   │                'https://www.metacritic.com/game/playstation-4/mitsurugi-kamui-hikae'                 │
-│   265   │                     'Omega Quintet'                     │  58   │                    'https://www.metacritic.com/game/playstation-4/omega-quintet'                     │
-│   266   │                 'This is the Police 2'                  │  58   │                 'https://www.metacritic.com/game/playstation-4/this-is-the-police-2'                 │
-│   267   │                  'Kingdom: New Lands'                   │  57   │                  'https://www.metacritic.com/game/playstation-4/kingdom-new-lands'                   │
-│   268   │                        'Adr1ft'                         │  56   │                        'https://www.metacritic.com/game/playstation-4/adr1ft'                        │
-│   269   │                      'Chess Ultra'                      │  56   │                     'https://www.metacritic.com/game/playstation-4/chess-ultra'                      │
-│   270   │                    'Dangerous Golf'                     │  56   │                    'https://www.metacritic.com/game/playstation-4/dangerous-golf'                    │
-│   271   │        'Surgeon Simulator: Anniversary Edition'         │  56   │        'https://www.metacritic.com/game/playstation-4/surgeon-simulator-anniversary-edition'         │
-│   272   │                  'Tennis World Tour 2'                  │  56   │                 'https://www.metacritic.com/game/playstation-4/tennis-world-tour-2'                  │
-│   273   │                     "Akiba's Beat"                      │  55   │                     'https://www.metacritic.com/game/playstation-4/akibas-beat'                      │
-│   274   │                    'Fade to Silence'                    │  55   │                   'https://www.metacritic.com/game/playstation-4/fade-to-silence'                    │
-│   275   │           'Totally Reliable Delivery Service'           │  55   │          'https://www.metacritic.com/game/playstation-4/totally-reliable-delivery-service'           │
-│   276   │           'Touhou Genso Rondo: Bullet Ballet'           │  55   │           'https://www.metacritic.com/game/playstation-4/touhou-genso-rondo-bullet-ballet'           │
-│   277   │              'Trials of the Blood Dragon'               │  55   │              'https://www.metacritic.com/game/playstation-4/trials-of-the-blood-dragon'              │
-│   278   │                     'Black Mirror'                      │  54   │                     'https://www.metacritic.com/game/playstation-4/black-mirror'                     │
-│   279   │                         'KNACK'                         │  54   │                        'https://www.metacritic.com/game/playstation-4/knack'                         │
-│   280   │                       'Overpass'                        │  54   │                       'https://www.metacritic.com/game/playstation-4/overpass'                       │
-│   281   │                         '2Dark'                         │  54   │                        'https://www.metacritic.com/game/playstation-4/2dark'                         │
-│   282   │                    'Bound by Flame'                     │  53   │                    'https://www.metacritic.com/game/playstation-4/bound-by-flame'                    │
-│   283   │                      'Fallout 76'                       │  53   │                      'https://www.metacritic.com/game/playstation-4/fallout-76'                      │
-│   284   │        'GUNVOLT CHRONICLES LUMINOUS AVENGER IX'         │  52   │        'https://www.metacritic.com/game/playstation-4/gunvolt-chronicles-luminous-avenger-ix'        │
-│   285   │             'Override 2: Super Mech League'             │  52   │             'https://www.metacritic.com/game/playstation-4/override-2-super-mech-league'             │
-│   286   │                'Carmageddon: Max Damage'                │  51   │                'https://www.metacritic.com/game/playstation-4/carmageddon-max-damage'                │
-│   287   │                      'I am Bread'                       │  51   │                      'https://www.metacritic.com/game/playstation-4/i-am-bread'                      │
-│   288   │                    'Hello Neighbor'                     │  50   │                    'https://www.metacritic.com/game/playstation-4/hello-neighbor'                    │
-│   289   │                     'Pixel Piracy'                      │  50   │                     'https://www.metacritic.com/game/playstation-4/pixel-piracy'                     │
-│   290   │               'Homefront: The Revolution'               │  48   │               'https://www.metacritic.com/game/playstation-4/homefront-the-revolution'               │
-│   291   │                     'Bee Simulator'                     │  47   │                    'https://www.metacritic.com/game/playstation-4/bee-simulator'                     │
-│   292   │            'Bubsy: The Woolies Strike Back'             │  45   │            'https://www.metacritic.com/game/playstation-4/bubsy-the-woolies-strike-back'             │
-│   293   │                   'Balan Wonderworld'                   │  44   │                  'https://www.metacritic.com/game/playstation-4/balan-wonderworld'                   │
-│   294   │                     'Empire of Sin'                     │  43   │                    'https://www.metacritic.com/game/playstation-4/empire-of-sin'                     │
-│   295   │                   'MX vs ATV All Out'                   │  42   │                  'https://www.metacritic.com/game/playstation-4/mx-vs-atv-all-out'                   │
-│   296   │         'Werewolf: The Apocalypse - Earthblood'         │  42   │         'https://www.metacritic.com/game/playstation-4/werewolf-the-apocalypse---earthblood'         │
-│   297   │                       'Last Stop'                       │  40   │                      'https://www.metacritic.com/game/playstation-4/last-stop'                       │
-│   298   │                     'FLUSTER CLUCK'                     │  37   │                    'https://www.metacritic.com/game/playstation-4/fluster-cluck'                     │
-│   299   │              'Rapala Fishing: Pro Series'               │  33   │              'https://www.metacritic.com/game/playstation-4/rapala-fishing-pro-series'               │
-│   300   │                        'TorqueL'                        │  32   │                       'https://www.metacritic.com/game/playstation-4/torquel'                        │
-│   301   │                'Harvest Moon: One World'                │  28   │                'https://www.metacritic.com/game/playstation-4/harvest-moon-one-world'                │
-│   302   │           'Cartoon Network: Battle Crashers'            │  21   │           'https://www.metacritic.com/game/playstation-4/cartoon-network-battle-crashers'            │
-│   303   │                       'Unturned'                        │  18   │                       'https://www.metacritic.com/game/playstation-4/unturned'                       │
-│   304   │                    'Ace of Seafood'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/ace-of-seafood'                    │
-│   305   │                       'Bad North'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/bad-north'                       │
-│   306   │                      'Bomber Crew'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/bomber-crew'                      │
-│   307   │                    'Chicken Police'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/chicken-police'                    │
-│   308   │                   'Cities: Skylines'                    │   0   │                   'https://www.metacritic.com/game/playstation-4/cities-skylines'                    │
-│   309   │                 'Clouds &amp; Sheep 2'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/clouds-&amp-sheep-2'                  │
-│   310   │        'Concrete Genie: Digital Deluxe Edition'         │   0   │        'https://www.metacritic.com/game/playstation-4/concrete-genie-digital-deluxe-edition'         │
-│   311   │                      'ConnecTank'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/connectank'                      │
-│   312   │       'Damascus Gear: Operation Tokyo HD Edition'       │   0   │       'https://www.metacritic.com/game/playstation-4/damascus-gear-operation-tokyo-hd-edition'       │
-│   313   │            'Dandara: Trials of Fear Edition'            │   0   │            'https://www.metacritic.com/game/playstation-4/dandara-trials-of-fear-edition'            │
-│   314   │                    'DCL - The Game'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/dcl---the-game'                    │
-│   315   │                  'Death end re;Quest2'                  │   0   │                  'https://www.metacritic.com/game/playstation-4/death-end-request2'                  │
-│   316   │            "DEATH STRANDING: DIRECTOR'S CUT"            │   0   │            'https://www.metacritic.com/game/playstation-4/death-stranding-directors-cut'             │
-│   317   │                     "DEMON'S SOULS"                     │   0   │                     'https://www.metacritic.com/game/playstation-4/demons-souls'                     │
-│   318   │                 'Destruction Allstars'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/destruction-allstars'                 │
-│   319   │        'Disaster Report 4 Plus: Summer Memories'        │   0   │        'https://www.metacritic.com/game/playstation-4/disaster-report-4-plus-summer-memories'        │
-│   320   │  'Earth Defense Force 4.1: The Shadow of New Despair'   │   0   │  'https://www.metacritic.com/game/playstation-4/earth-defense-force-4.1-the-shadow-of-new-despair'   │
-│   321   │                 'Electronic Super Joy'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/electronic-super-joy'                 │
-│   322   │                         'Embr'                          │   0   │                         'https://www.metacritic.com/game/playstation-4/embr'                         │
-│   323   │        'Far Cry 3 Blood Dragon: Classic Edition'        │   0   │        'https://www.metacritic.com/game/playstation-4/far-cry-3-blood-dragon-classic-edition'        │
-│   324   │         'FIGHTING EX LAYER - Standard Version'          │   0   │         'https://www.metacritic.com/game/playstation-4/fighting-ex-layer---standard-version'         │
-│   325   │            'Final Fantasy X/X-2 HD Remaster'            │   0   │           'https://www.metacritic.com/game/playstation-4/final-fantasy-x/x-2-hd-remaster'            │
-│   326   │                       'Gabbuchi'                        │   0   │                       'https://www.metacritic.com/game/playstation-4/gabbuchi'                       │
-│   327   │                   'GAL GUNVOLT BURST'                   │   0   │                  'https://www.metacritic.com/game/playstation-4/gal-gunvolt-burst'                   │
-│   328   │      'HARVEST MOON LIGHT OF HOPE SPECIAL EDITION'       │   0   │      'https://www.metacritic.com/game/playstation-4/harvest-moon-light-of-hope-special-edition'      │
-│   329   │                'Harvest Moon: Mad Dash'                 │   0   │                'https://www.metacritic.com/game/playstation-4/harvest-moon-mad-dash'                 │
-│   330   │                       'I am Dead'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/i-am-dead'                       │
-│   331   │                      'JumpJet Rex'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/jumpjet-rex'                      │
-│   332   │                         'KeyWe'                         │   0   │                        'https://www.metacritic.com/game/playstation-4/keywe'                         │
-│   333   │            'Killzone: Shadow Fall Intercept'            │   0   │            'https://www.metacritic.com/game/playstation-4/killzone-shadow-fall-intercept'            │
-│   334   │                 'Lawn Mowing Simulator'                 │   0   │                'https://www.metacritic.com/game/playstation-4/lawn-mowing-simulator'                 │
-│   335   │              'Left Alive: Day One Edition'              │   0   │              'https://www.metacritic.com/game/playstation-4/left-alive-day-one-edition'              │
-│   336   │                   'Legendary Fishing'                   │   0   │                  'https://www.metacritic.com/game/playstation-4/legendary-fishing'                   │
-│   337   │                  'Legends of Ethernal'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/legends-of-ethernal'                  │
-│   338   │                  'Little Big Workshop'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/little-big-workshop'                  │
-│   339   │                        'Mahjong'                        │   0   │                       'https://www.metacritic.com/game/playstation-4/mahjong'                        │
-│   340   │                  'Marvel Puzzle Quest'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/marvel-puzzle-quest'                  │
-│   341   │     "Marvel's Spider-Man: Game of the Year Edition"     │   0   │     'https://www.metacritic.com/game/playstation-4/marvels-spider-man-game-of-the-year-edition'      │
-│   342   │                     'Mighty No. 9'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/mighty-no.-9'                     │
-│   343   │                       'Mudrunner'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/mudrunner'                       │
-│   344   │                       'MXGP 2021'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/mxgp-2021'                       │
-│   345   │                      'Nidhogg II'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/nidhogg-ii'                      │
-│   346   │                'Observer: System Redux'                 │   0   │                'https://www.metacritic.com/game/playstation-4/observer-system-redux'                 │
-│   347   │                "Oddworld: New 'n' Tasty"                │   0   │                 'https://www.metacritic.com/game/playstation-4/oddworld-new-n-tasty'                 │
-│   348   │                  'Pile Up! Box by Box'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/pile-up!-box-by-box'                  │
-│   349   │         "Pure Hold'em World Poker Championship"         │   0   │         'https://www.metacritic.com/game/playstation-4/pure-holdem-world-poker-championship'         │
-│   350   │           'Reel Fishing: Road Trip Adventure'           │   0   │           'https://www.metacritic.com/game/playstation-4/reel-fishing-road-trip-adventure'           │
-│   351   │                       'RETURNAL'                        │   0   │                       'https://www.metacritic.com/game/playstation-4/returnal'                       │
+│    4    │                     "DEMON'S SOULS"                     │  92   │                     'https://www.metacritic.com/game/playstation-4/demons-souls'                     │
+│    5    │                        'Celeste'                        │  91   │                       'https://www.metacritic.com/game/playstation-4/celeste'                        │
+│    6    │                'Shadow of the Colossus'                 │  91   │                'https://www.metacritic.com/game/playstation-4/shadow-of-the-colossus'                │
+│    7    │                     'Rez Infinite'                      │  89   │                     'https://www.metacritic.com/game/playstation-4/rez-infinite'                     │
+│    8    │                         'Nioh'                          │  88   │                         'https://www.metacritic.com/game/playstation-4/nioh'                         │
+│    9    │             'Through the Darkest of Times'              │  88   │             'https://www.metacritic.com/game/playstation-4/through-the-darkest-of-times'             │
+│   10    │                 'Batman: Arkham Knight'                 │  87   │                 'https://www.metacritic.com/game/playstation-4/batman-arkham-knight'                 │
+│   11    │                      'Dead Cells'                       │  87   │                      'https://www.metacritic.com/game/playstation-4/dead-cells'                      │
+│   12    │                       'Fallout 4'                       │  87   │                      'https://www.metacritic.com/game/playstation-4/fallout-4'                       │
+│   13    │              'Frostpunk: Console Edition'               │  87   │              'https://www.metacritic.com/game/playstation-4/frostpunk-console-edition'               │
+│   14    │                      'Injustice 2'                      │  87   │                     'https://www.metacritic.com/game/playstation-4/injustice-2'                      │
+│   15    │                  "Marvel's Spider-Man"                  │  87   │                  'https://www.metacritic.com/game/playstation-4/marvels-spider-man'                  │
+│   16    │                  'TowerFall Ascension'                  │  87   │                 'https://www.metacritic.com/game/playstation-4/towerfall-ascension'                  │
+│   17    │                        'XCOM 2'                         │  87   │                        'https://www.metacritic.com/game/playstation-4/xcom-2'                        │
+│   18    │           'Final Fantasy XII The Zodiac Age'            │  86   │           'https://www.metacritic.com/game/playstation-4/final-fantasy-xii-the-zodiac-age'           │
+│   19    │          'Horizon Zero Dawn Complete Edition'           │  86   │          'https://www.metacritic.com/game/playstation-4/horizon-zero-dawn-complete-edition'          │
+│   20    │                       'RETURNAL'                        │  86   │                       'https://www.metacritic.com/game/playstation-4/returnal'                       │
+│   21    │            "DEATH STRANDING: DIRECTOR'S CUT"            │  85   │            'https://www.metacritic.com/game/playstation-4/death-stranding-directors-cut'             │
+│   22    │                         'DOOM'                          │  85   │                         'https://www.metacritic.com/game/playstation-4/doom'                         │
+│   23    │                       'Far Cry 4'                       │  85   │                      'https://www.metacritic.com/game/playstation-4/far-cry-4'                       │
+│   24    │                   'Final Fantasy IX'                    │  85   │                   'https://www.metacritic.com/game/playstation-4/final-fantasy-ix'                   │
+│   25    │           'Hollow Knight: Voidheart Edition'            │  85   │           'https://www.metacritic.com/game/playstation-4/hollow-knight-voidheart-edition'            │
+│   26    │         'Pillars of Eternity: Complete Edition'         │  85   │         'https://www.metacritic.com/game/playstation-4/pillars-of-eternity-complete-edition'         │
+│   27    │              'Ys VIII: Lacrimosa of DANA'               │  85   │              'https://www.metacritic.com/game/playstation-4/ys-viii-lacrimosa-of-dana'               │
+│   28    │                   'Final Fantasy VII'                   │  84   │                  'https://www.metacritic.com/game/playstation-4/final-fantasy-vii'                   │
+│   29    │           'MARVELS SPIDER-MAN MILES MORALES'            │  84   │           'https://www.metacritic.com/game/playstation-4/marvels-spider-man-miles-morales'           │
+│   30    │                        'RESOGUN'                        │  84   │                       'https://www.metacritic.com/game/playstation-4/resogun'                        │
+│   31    │                    'Soulcalibur VI'                     │  84   │                    'https://www.metacritic.com/game/playstation-4/soulcalibur-vi'                    │
+│   32    │              'Uncharted: The Lost Legacy'               │  84   │              'https://www.metacritic.com/game/playstation-4/uncharted-the-lost-legacy'               │
+│   33    │           'Bloodstained: Ritual of the Night'           │  83   │           'https://www.metacritic.com/game/playstation-4/bloodstained-ritual-of-the-night'           │
+│   34    │           "Marvel's Guardians of the Galaxy"            │  83   │           'https://www.metacritic.com/game/playstation-4/marvels-guardians-of-the-galaxy'            │
+│   35    │                       'Terraria'                        │  83   │                       'https://www.metacritic.com/game/playstation-4/terraria'                       │
+│   36    │                       'Astebreed'                       │  82   │                      'https://www.metacritic.com/game/playstation-4/astebreed'                       │
+│   37    │                    'Child of Light'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/child-of-light'                    │
+│   38    │                    'DEATH STRANDING'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/death-stranding'                    │
+│   39    │                    'Desperados III'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/desperados-iii'                    │
+│   40    │                   'Enter the Gungeon'                   │  82   │                  'https://www.metacritic.com/game/playstation-4/enter-the-gungeon'                   │
+│   41    │                    'Ghost of a Tale'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/ghost-of-a-tale'                    │
+│   42    │                   'Mortal Kombat 11'                    │  82   │                   'https://www.metacritic.com/game/playstation-4/mortal-kombat-11'                   │
+│   43    │                      'Outer Wilds'                      │  82   │                     'https://www.metacritic.com/game/playstation-4/outer-wilds'                      │
+│   44    │                   'THE LAST GUARDIAN'                   │  82   │                  'https://www.metacritic.com/game/playstation-4/the-last-guardian'                   │
+│   45    │                     'The Messenger'                     │  82   │                    'https://www.metacritic.com/game/playstation-4/the-messenger'                     │
+│   46    │                       'Wreckfest'                       │  82   │                      'https://www.metacritic.com/game/playstation-4/wreckfest'                       │
+│   47    │             'Brothers: A Tale of Two Sons'              │  81   │             'https://www.metacritic.com/game/playstation-4/brothers-a-tale-of-two-sons'              │
+│   48    │                         'Minit'                         │  81   │                        'https://www.metacritic.com/game/playstation-4/minit'                         │
+│   49    │                      'Moonlighter'                      │  81   │                     'https://www.metacritic.com/game/playstation-4/moonlighter'                      │
+│   50    │                     'Overcooked! 2'                     │  81   │                    'https://www.metacritic.com/game/playstation-4/overcooked!-2'                     │
+│   51    │                   'Tearaway Unfolded'                   │  81   │                  'https://www.metacritic.com/game/playstation-4/tearaway-unfolded'                   │
+│   52    │             'The Vanishing of Ethan Carter'             │  81   │            'https://www.metacritic.com/game/playstation-4/the-vanishing-of-ethan-carter'             │
+│   53    │                   'Trackmania Turbo'                    │  81   │                   'https://www.metacritic.com/game/playstation-4/trackmania-turbo'                   │
+│   54    │                'Warhammer: Vermintide 2'                │  81   │                'https://www.metacritic.com/game/playstation-4/warhammer-vermintide-2'                │
+│   55    │               "Assassin's Creed Valhalla"               │  80   │               'https://www.metacritic.com/game/playstation-4/assassins-creed-valhalla'               │
+│   56    │                    'AVICII Invector'                    │  80   │                   'https://www.metacritic.com/game/playstation-4/avicii-invector'                    │
+│   57    │                   'Children of Morta'                   │  80   │                  'https://www.metacritic.com/game/playstation-4/children-of-morta'                   │
+│   58    │           'DISGAEA 5: ALLIANCE OF VENGEANCE'            │  80   │           'https://www.metacritic.com/game/playstation-4/disgaea-5-alliance-of-vengeance'            │
+│   59    │             'Final Fantasy VIII Remastered'             │  80   │            'https://www.metacritic.com/game/playstation-4/final-fantasy-viii-remastered'             │
+│   60    │    "Giana Sisters: Twisted Dreams - Director's Cut"     │  80   │     'https://www.metacritic.com/game/playstation-4/giana-sisters-twisted-dreams---directors-cut'     │
+│   61    │                    'Gravity Rush 2'                     │  80   │                    'https://www.metacritic.com/game/playstation-4/gravity-rush-2'                    │
+│   62    │                  'inFAMOUS Second Son'                  │  80   │                 'https://www.metacritic.com/game/playstation-4/infamous-second-son'                  │
+│   63    │                   'Prison Architect'                    │  80   │                   'https://www.metacritic.com/game/playstation-4/prison-architect'                   │
+│   64    │                   'SkyDrift Infinity'                   │  80   │                  'https://www.metacritic.com/game/playstation-4/skydrift-infinity'                   │
+│   65    │            'South Park: The Stick of Truth'             │  80   │            'https://www.metacritic.com/game/playstation-4/south-park-the-stick-of-truth'             │
+│   66    │               "Tom Clancy's The Division"               │  80   │               'https://www.metacritic.com/game/playstation-4/tom-clancys-the-division'               │
+│   67    │             'Trine 4: The Nightmare Prince'             │  80   │             'https://www.metacritic.com/game/playstation-4/trine-4-the-nightmare-prince'             │
+│   68    │                      'Watch Dogs'                       │  80   │                      'https://www.metacritic.com/game/playstation-4/watch-dogs'                      │
+│   69    │                  'Ys IX: Monstrum Nox'                  │  80   │                  'https://www.metacritic.com/game/playstation-4/ys-ix-monstrum-nox'                  │
+│   70    │                      'ALIENATION'                       │  79   │                      'https://www.metacritic.com/game/playstation-4/alienation'                      │
+│   71    │               'Fire Pro Wrestling World'                │  79   │               'https://www.metacritic.com/game/playstation-4/fire-pro-wrestling-world'               │
+│   72    │        "Joe Dever's Lone Wolf: Console Edition"         │  79   │         'https://www.metacritic.com/game/playstation-4/joe-devers-lone-wolf-console-edition'         │
+│   73    │                   'LittleBigPlanet 3'                   │  79   │                  'https://www.metacritic.com/game/playstation-4/littlebigplanet-3'                   │
+│   74    │       'Naruto Shippuden: Ultimate Ninja Storm 4'        │  79   │       'https://www.metacritic.com/game/playstation-4/naruto-shippuden-ultimate-ninja-storm-4'        │
+│   75    │                         'Prey'                          │  79   │                         'https://www.metacritic.com/game/playstation-4/prey'                         │
+│   76    │                         'SOMA'                          │  79   │                         'https://www.metacritic.com/game/playstation-4/soma'                         │
+│   77    │          'South Park: The Fractured but Whole'          │  79   │          'https://www.metacritic.com/game/playstation-4/south-park-the-fractured-but-whole'          │
+│   78    │                     'Telling Lies'                      │  79   │                     'https://www.metacritic.com/game/playstation-4/telling-lies'                     │
+│   79    │                     'Trials Fusion'                     │  79   │                    'https://www.metacritic.com/game/playstation-4/trials-fusion'                     │
+│   80    │                     'Trials Rising'                     │  79   │                    'https://www.metacritic.com/game/playstation-4/trials-rising'                     │
+│   81    │                      'Until Dawn'                       │  79   │                      'https://www.metacritic.com/game/playstation-4/until-dawn'                      │
+│   82    │              'Wolfenstein: The New Order'               │  79   │              'https://www.metacritic.com/game/playstation-4/wolfenstein-the-new-order'               │
+│   83    │                         'ABZU'                          │  78   │                         'https://www.metacritic.com/game/playstation-4/abzu'                         │
+│   84    │              'Age of Wonders: Planetfall'               │  78   │              'https://www.metacritic.com/game/playstation-4/age-of-wonders-planetfall'               │
+│   85    │                      'Blasphemous'                      │  78   │                     'https://www.metacritic.com/game/playstation-4/blasphemous'                      │
+│   86    │                 'Detroit: Become Human'                 │  78   │                 'https://www.metacritic.com/game/playstation-4/detroit-become-human'                 │
+│   87    │                       'EVERSPACE'                       │  78   │                      'https://www.metacritic.com/game/playstation-4/everspace'                       │
+│   88    │                   "Everybody's Golf"                    │  78   │                   'https://www.metacritic.com/game/playstation-4/everybodys-golf'                    │
+│   89    │                       'For Honor'                       │  78   │                      'https://www.metacritic.com/game/playstation-4/for-honor'                       │
+│   90    │                    'Fury Unleashed'                     │  78   │                    'https://www.metacritic.com/game/playstation-4/fury-unleashed'                    │
+│   91    │                     'John Wick Hex'                     │  78   │                    'https://www.metacritic.com/game/playstation-4/john-wick-hex'                     │
+│   92    │                   'Little Nightmares'                   │  78   │                  'https://www.metacritic.com/game/playstation-4/little-nightmares'                   │
+│   93    │           'This War of Mine: The Little Ones'           │  78   │           'https://www.metacritic.com/game/playstation-4/this-war-of-mine-the-little-ones'           │
+│   94    │                  'Darksiders Genesis'                   │  77   │                  'https://www.metacritic.com/game/playstation-4/darksiders-genesis'                  │
+│   95    │                    'Defense Grid 2'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/defense-grid-2'                    │
+│   96    │                  'Deliver Us the Moon'                  │  77   │                 'https://www.metacritic.com/game/playstation-4/deliver-us-the-moon'                  │
+│   97    │            'Final Fantasy XV Royal Edition'             │  77   │            'https://www.metacritic.com/game/playstation-4/final-fantasy-xv-royal-edition'            │
+│   98    │                    'Hotshot Racing'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/hotshot-racing'                    │
+│   99    │                          'Hue'                          │  77   │                         'https://www.metacritic.com/game/playstation-4/hue'                          │
+│   100   │                      'Indivisible'                      │  77   │                     'https://www.metacritic.com/game/playstation-4/indivisible'                      │
+│   101   │                    'Sniper Elite 4'                     │  77   │                    'https://www.metacritic.com/game/playstation-4/sniper-elite-4'                    │
+│   102   │              'Stellaris: Console Edition'               │  77   │              'https://www.metacritic.com/game/playstation-4/stellaris-console-edition'               │
+│   103   │                      'Toukiden 2'                       │  77   │                      'https://www.metacritic.com/game/playstation-4/toukiden-2'                      │
+│   104   │             'Valiant Hearts: The Great War'             │  77   │             'https://www.metacritic.com/game/playstation-4/valiant-hearts-the-great-war'             │
+│   105   │                       'Virginia'                        │  77   │                       'https://www.metacritic.com/game/playstation-4/virginia'                       │
+│   106   │                'World of Final Fantasy'                 │  77   │                'https://www.metacritic.com/game/playstation-4/world-of-final-fantasy'                │
+│   107   │                      'Ghostrunner'                      │  76   │                     'https://www.metacritic.com/game/playstation-4/ghostrunner'                      │
+│   108   │         'Momodora: Reverie Under the Moonlight'         │  76   │         'https://www.metacritic.com/game/playstation-4/momodora-reverie-under-the-moonlight'         │
+│   109   │                     'PGA Tour 2K21'                     │  76   │                    'https://www.metacritic.com/game/playstation-4/pga-tour-2k21'                     │
+│   110   │             'The Wonderful 101: Remastered'             │  76   │             'https://www.metacritic.com/game/playstation-4/the-wonderful-101-remastered'             │
+│   111   │                       'Tropico 5'                       │  76   │                      'https://www.metacritic.com/game/playstation-4/tropico-5'                       │
+│   112   │             'Victor Vran Overkill Edition'              │  76   │             'https://www.metacritic.com/game/playstation-4/victor-vran-overkill-edition'             │
+│   113   │                   'Werewolves Within'                   │  76   │                  'https://www.metacritic.com/game/playstation-4/werewolves-within'                   │
+│   114   │               'Battle Chasers: Nightwar'                │  75   │               'https://www.metacritic.com/game/playstation-4/battle-chasers-nightwar'                │
+│   115   │                    'Concrete Genie'                     │  75   │                    'https://www.metacritic.com/game/playstation-4/concrete-genie'                    │
+│   116   │                      'Descenders'                       │  75   │                      'https://www.metacritic.com/game/playstation-4/descenders'                      │
+│   117   │                  'Dragon Star Varnir'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/dragon-star-varnir'                  │
+│   118   │             'Hotline Miami 2: Wrong Number'             │  75   │             'https://www.metacritic.com/game/playstation-4/hotline-miami-2-wrong-number'             │
+│   119   │                   'Infinite Minigolf'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/infinite-minigolf'                   │
+│   120   │                   'Last Day of June'                    │  75   │                   'https://www.metacritic.com/game/playstation-4/last-day-of-june'                   │
+│   121   │                   'My Time at Portia'                   │  75   │                  'https://www.metacritic.com/game/playstation-4/my-time-at-portia'                   │
+│   122   │                      'Observation'                      │  75   │                     'https://www.metacritic.com/game/playstation-4/observation'                      │
+│   123   │                       'Pure Pool'                       │  75   │                      'https://www.metacritic.com/game/playstation-4/pure-pool'                       │
+│   124   │                'Star Trek: Bridge Crew'                 │  75   │                'https://www.metacritic.com/game/playstation-4/star-trek-bridge-crew'                 │
+│   125   │                     'The Long Dark'                     │  75   │                    'https://www.metacritic.com/game/playstation-4/the-long-dark'                     │
+│   126   │                      'The Surge 2'                      │  75   │                     'https://www.metacritic.com/game/playstation-4/the-surge-2'                      │
+│   127   │               'Control: Ultimate Edition'               │  74   │               'https://www.metacritic.com/game/playstation-4/control-ultimate-edition'               │
+│   128   │              'DEAD OR ALIVE 5 Last Round'               │  74   │              'https://www.metacritic.com/game/playstation-4/dead-or-alive-5-last-round'              │
+│   129   │                  'Kingdom Two Crowns'                   │  74   │                  'https://www.metacritic.com/game/playstation-4/kingdom-two-crowns'                  │
+│   130   │              'Lost Words: Beyond the Page'              │  74   │              'https://www.metacritic.com/game/playstation-4/lost-words-beyond-the-page'              │
+│   131   │                   'Masters of Anima'                    │  74   │                   'https://www.metacritic.com/game/playstation-4/masters-of-anima'                   │
+│   132   │                      'Moving Out'                       │  74   │                      'https://www.metacritic.com/game/playstation-4/moving-out'                      │
+│   133   │      'Pathfinder: Kingmaker - Definitive Edition'       │  74   │      'https://www.metacritic.com/game/playstation-4/pathfinder-kingmaker---definitive-edition'       │
+│   134   │                        'RIDE 4'                         │  74   │                        'https://www.metacritic.com/game/playstation-4/ride-4'                        │
+│   135   │           'Saints Row: The Third Remastered'            │  74   │           'https://www.metacritic.com/game/playstation-4/saints-row-the-third-remastered'            │
+│   136   │      'The Elder Scrolls Online: Tamriel Unlimited'      │  74   │      'https://www.metacritic.com/game/playstation-4/the-elder-scrolls-online-tamriel-unlimited'      │
+│   137   │                    'The Turing Test'                    │  74   │                   'https://www.metacritic.com/game/playstation-4/the-turing-test'                    │
+│   138   │          'TT Isle of Man: Ride on the Edge 2'           │  74   │          'https://www.metacritic.com/game/playstation-4/tt-isle-of-man-ride-on-the-edge-2'           │
+│   139   │                  'Wild Guns Reloaded'                   │  74   │                  'https://www.metacritic.com/game/playstation-4/wild-guns-reloaded'                  │
+│   140   │                     'Eagle Flight'                      │  73   │                     'https://www.metacritic.com/game/playstation-4/eagle-flight'                     │
+│   141   │                 'inFAMOUS First Light'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/infamous-first-light'                 │
+│   142   │                 'KILLZONE SHADOW FALL'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/killzone-shadow-fall'                 │
+│   143   │             'LEGO Batman 3: Beyond Gotham'              │  73   │             'https://www.metacritic.com/game/playstation-4/lego-batman-3-beyond-gotham'              │
+│   144   │                 'NBA 2K Playgrounds 2'                  │  73   │                 'https://www.metacritic.com/game/playstation-4/nba-2k-playgrounds-2'                 │
+│   145   │               "Raiden V: Director's Cut"                │  73   │                'https://www.metacritic.com/game/playstation-4/raiden-v-directors-cut'                │
+│   146   │                    'R-TYPE FINAL 2'                     │  73   │                    'https://www.metacritic.com/game/playstation-4/r-type-final-2'                    │
+│   147   │             'Star Ocean First Departure R'              │  73   │             'https://www.metacritic.com/game/playstation-4/star-ocean-first-departure-r'             │
+│   148   │                    'Surviving Mars'                     │  73   │                    'https://www.metacritic.com/game/playstation-4/surviving-mars'                    │
+│   149   │                       'The Surge'                       │  73   │                      'https://www.metacritic.com/game/playstation-4/the-surge'                       │
+│   150   │                     'Death Squared'                     │  72   │                    'https://www.metacritic.com/game/playstation-4/death-squared'                     │
+│   151   │              'El Hijo - A Wild West Tale'               │  72   │              'https://www.metacritic.com/game/playstation-4/el-hijo---a-wild-west-tale'              │
+│   152   │                       'Greedfall'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/greedfall'                       │
+│   153   │                'Jotun: Valhalla Edition'                │  72   │                'https://www.metacritic.com/game/playstation-4/jotun-valhalla-edition'                │
+│   154   │                       'Magicka 2'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/magicka-2'                       │
+│   155   │                      'MATTERFALL'                       │  72   │                      'https://www.metacritic.com/game/playstation-4/matterfall'                      │
+│   156   │                   'Shadow Warrior 2'                    │  72   │                   'https://www.metacritic.com/game/playstation-4/shadow-warrior-2'                   │
+│   157   │                     'Tricky Towers'                     │  72   │                    'https://www.metacritic.com/game/playstation-4/tricky-towers'                     │
+│   158   │                'Zombie Army 4: Dead War'                │  72   │                'https://www.metacritic.com/game/playstation-4/zombie-army-4-dead-war'                │
+│   159   │                        'Aragami'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/aragami'                        │
+│   160   │              'Assetto Corsa Competizione'               │  71   │              'https://www.metacritic.com/game/playstation-4/assetto-corsa-competizione'              │
+│   161   │                         'Bound'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/bound'                         │
+│   162   │                    'Croixleur Sigma'                    │  71   │                   'https://www.metacritic.com/game/playstation-4/croixleur-sigma'                    │
+│   163   │                       'Days Gone'                       │  71   │                      'https://www.metacritic.com/game/playstation-4/days-gone'                       │
+│   164   │                  'Death end re;Quest'                   │  71   │                  'https://www.metacritic.com/game/playstation-4/death-end-request'                   │
+│   165   │                       'Get Even'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/get-even'                       │
+│   166   │                  'GRIP: Combat Racing'                  │  71   │                  'https://www.metacritic.com/game/playstation-4/grip-combat-racing'                  │
+│   167   │                         'Kona'                          │  71   │                         'https://www.metacritic.com/game/playstation-4/kona'                         │
+│   168   │             'Mafia III: Definitive Edition'             │  71   │             'https://www.metacritic.com/game/playstation-4/mafia-iii-definitive-edition'             │
+│   169   │              'Megadimension Neptunia VII'               │  71   │              'https://www.metacritic.com/game/playstation-4/megadimension-neptunia-vii'              │
+│   170   │                    'My Friend Pedro'                    │  71   │                   'https://www.metacritic.com/game/playstation-4/my-friend-pedro'                    │
+│   171   │                       'NBA 2K22'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/nba-2k22'                       │
+│   172   │              'Payday 2: Crimewave Edition'              │  71   │              'https://www.metacritic.com/game/playstation-4/payday-2-crimewave-edition'              │
+│   173   │                    'Portal Knights'                     │  71   │                    'https://www.metacritic.com/game/playstation-4/portal-knights'                    │
+│   174   │                        'Relicta'                        │  71   │                       'https://www.metacritic.com/game/playstation-4/relicta'                        │
+│   175   │                         'Steep'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/steep'                         │
+│   176   │       'The Dark Pictures Anthology: Little Hope'        │  71   │       'https://www.metacritic.com/game/playstation-4/the-dark-pictures-anthology-little-hope'        │
+│   177   │               'The LEGO Movie Videogame'                │  71   │               'https://www.metacritic.com/game/playstation-4/the-lego-movie-videogame'               │
+│   178   │                     'Transference'                      │  71   │                     'https://www.metacritic.com/game/playstation-4/transference'                     │
+│   179   │                         'ZOMBI'                         │  71   │                        'https://www.metacritic.com/game/playstation-4/zombi'                         │
+│   180   │                 '9 Monkeys of Shaolin'                  │  71   │                 'https://www.metacritic.com/game/playstation-4/9-monkeys-of-shaolin'                 │
+│   181   │                      'Cris Tales'                       │  70   │                      'https://www.metacritic.com/game/playstation-4/cris-tales'                      │
+│   182   │              'Far Cry 3: Classic Edition'               │  70   │              'https://www.metacritic.com/game/playstation-4/far-cry-3-classic-edition'               │
+│   183   │                   'No Straight Roads'                   │  70   │                  'https://www.metacritic.com/game/playstation-4/no-straight-roads'                   │
+│   184   │              'Starlink: Battle for Atlas'               │  70   │              'https://www.metacritic.com/game/playstation-4/starlink-battle-for-atlas'               │
+│   185   │                        'Vampyr'                         │  70   │                        'https://www.metacritic.com/game/playstation-4/vampyr'                        │
+│   186   │                  'WARRIORS ALL-STARS'                   │  70   │                  'https://www.metacritic.com/game/playstation-4/warriors-all-stars'                  │
+│   187   │                     '8-Bit Armies'                      │  70   │                     'https://www.metacritic.com/game/playstation-4/8-bit-armies'                     │
+│   188   │                       'Absolver'                        │  69   │                       'https://www.metacritic.com/game/playstation-4/absolver'                       │
+│   189   │                      'AO Tennis 2'                      │  69   │                     'https://www.metacritic.com/game/playstation-4/ao-tennis-2'                      │
+│   190   │                    'Caladrius Blaze'                    │  69   │                   'https://www.metacritic.com/game/playstation-4/caladrius-blaze'                    │
+│   191   │        "Chocobo's Mystery Dungeon EVERY BUDDY!"         │  69   │        'https://www.metacritic.com/game/playstation-4/chocobos-mystery-dungeon-every-buddy!'         │
+│   192   │                'Golf with Your Friends'                 │  69   │                'https://www.metacritic.com/game/playstation-4/golf-with-your-friends'                │
+│   193   │               'Kingdom Come: Deliverance'               │  69   │               'https://www.metacritic.com/game/playstation-4/kingdom-come-deliverance'               │
+│   194   │                    'Rogue Stormers'                     │  69   │                    'https://www.metacritic.com/game/playstation-4/rogue-stormers'                    │
+│   195   │                     'Slime Rancher'                     │  69   │                    'https://www.metacritic.com/game/playstation-4/slime-rancher'                     │
+│   196   │       'The Dark Pictures Anthology: Man of Medan'       │  69   │       'https://www.metacritic.com/game/playstation-4/the-dark-pictures-anthology-man-of-medan'       │
+│   197   │               'Chronos: Before the Ashes'               │  68   │               'https://www.metacritic.com/game/playstation-4/chronos-before-the-ashes'               │
+│   198   │         'Enigmatis: The Ghosts of Maple Creek'          │  68   │         'https://www.metacritic.com/game/playstation-4/enigmatis-the-ghosts-of-maple-creek'          │
+│   199   │                       'Maneater'                        │  68   │                       'https://www.metacritic.com/game/playstation-4/maneater'                       │
+│   200   │                   'Pure Farming 2018'                   │  68   │                  'https://www.metacritic.com/game/playstation-4/pure-farming-2018'                   │
+│   201   │                  'Space Hulk: Tactics'                  │  68   │                  'https://www.metacritic.com/game/playstation-4/space-hulk-tactics'                  │
+│   202   │           'Agatha Christie - The ABC Murders'           │  67   │          'https://www.metacritic.com/game/playstation-4/agatha-christie---the-abc-murders'           │
+│   203   │                  'Dreamfall Chapters'                   │  67   │                  'https://www.metacritic.com/game/playstation-4/dreamfall-chapters'                  │
+│   204   │                   'How to Survive 2'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/how-to-survive-2'                   │
+│   205   │                    'Human Fall Flat'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/human-fall-flat'                    │
+│   206   │                       'MediEvil'                        │  67   │                       'https://www.metacritic.com/game/playstation-4/medievil'                       │
+│   207   │              'Monster Truck Championship'               │  67   │              'https://www.metacritic.com/game/playstation-4/monster-truck-championship'              │
+│   208   │                    'Nights of Azure'                    │  67   │                   'https://www.metacritic.com/game/playstation-4/nights-of-azure'                    │
+│   209   │              'Redeemer - Enhanced Edition'              │  67   │             'https://www.metacritic.com/game/playstation-4/redeemer---enhanced-edition'              │
+│   210   │          'Romance of The Three Kingdoms XIII'           │  67   │          'https://www.metacritic.com/game/playstation-4/romance-of-the-three-kingdoms-xiii'          │
+│   211   │                      'Shenmue III'                      │  67   │                     'https://www.metacritic.com/game/playstation-4/shenmue-iii'                      │
+│   212   │            'Shiness: The Lightning Kingdom'             │  67   │            'https://www.metacritic.com/game/playstation-4/shiness-the-lightning-kingdom'             │
+│   213   │              'Vikings - Wolves of Midgard'              │  67   │             'https://www.metacritic.com/game/playstation-4/vikings---wolves-of-midgard'              │
+│   214   │                     "Leo's Fortune"                     │  66   │                     'https://www.metacritic.com/game/playstation-4/leos-fortune'                     │
+│   215   │       'Nights of Azure 2: Bride of the New Moon'        │  66   │       'https://www.metacritic.com/game/playstation-4/nights-of-azure-2-bride-of-the-new-moon'        │
+│   216   │                      'Rad Rodgers'                      │  66   │                     'https://www.metacritic.com/game/playstation-4/rad-rodgers'                      │
+│   217   │            'The Last Tinker: City of Colors'            │  66   │            'https://www.metacritic.com/game/playstation-4/the-last-tinker-city-of-colors'            │
+│   218   │                   'Thomas was Alone'                    │  66   │                   'https://www.metacritic.com/game/playstation-4/thomas-was-alone'                   │
+│   219   │                'Ash of Gods Redemption'                 │  65   │                'https://www.metacritic.com/game/playstation-4/ash-of-gods-redemption'                │
+│   220   │         'How to Survive: Storm Warning Edition'         │  65   │         'https://www.metacritic.com/game/playstation-4/how-to-survive-storm-warning-edition'         │
+│   221   │                        'Nidhogg'                        │  65   │                       'https://www.metacritic.com/game/playstation-4/nidhogg'                        │
+│   222   │                      'Party Hard'                       │  65   │                      'https://www.metacritic.com/game/playstation-4/party-hard'                      │
+│   223   │          'Power Rangers: Battle For The Grid'           │  65   │          'https://www.metacritic.com/game/playstation-4/power-rangers-battle-for-the-grid'           │
+│   224   │                     'Stranded Deep'                     │  65   │                    'https://www.metacritic.com/game/playstation-4/stranded-deep'                     │
+│   225   │                      'Danger Zone'                      │  64   │                     'https://www.metacritic.com/game/playstation-4/danger-zone'                      │
+│   226   │                    'Darksiders III'                     │  64   │                    'https://www.metacritic.com/game/playstation-4/darksiders-iii'                    │
+│   227   │                      'Foreclosed'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/foreclosed'                      │
+│   228   │                 'Grand Ages: Medieval'                  │  64   │                 'https://www.metacritic.com/game/playstation-4/grand-ages-medieval'                  │
+│   229   │                     'Rebel Galaxy'                      │  64   │                     'https://www.metacritic.com/game/playstation-4/rebel-galaxy'                     │
+│   230   │                  'Seasons After Fall'                   │  64   │                  'https://www.metacritic.com/game/playstation-4/seasons-after-fall'                  │
+│   231   │                  'Shadow of the Beast'                  │  64   │                 'https://www.metacritic.com/game/playstation-4/shadow-of-the-beast'                  │
+│   232   │             'The Caligula Effect: Overdose'             │  64   │             'https://www.metacritic.com/game/playstation-4/the-caligula-effect-overdose'             │
+│   233   │                      'The Crew 2'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/the-crew-2'                      │
+│   234   │                       'Windbound'                       │  64   │                      'https://www.metacritic.com/game/playstation-4/windbound'                       │
+│   235   │                    'Call of Cthulhu'                    │  63   │                   'https://www.metacritic.com/game/playstation-4/call-of-cthulhu'                    │
+│   236   │                'Car Mechanic Simulator'                 │  63   │                'https://www.metacritic.com/game/playstation-4/car-mechanic-simulator'                │
+│   237   │              'Dynasty Warriors 8 Empires'               │  63   │              'https://www.metacritic.com/game/playstation-4/dynasty-warriors-8-empires'              │
+│   238   │           "GHOST OF TSUSHIMA: DIRECTOR'S CUT"           │  63   │           'https://www.metacritic.com/game/playstation-4/ghost-of-tsushima-directors-cut'            │
+│   239   │                    'Gods will Fall'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/gods-will-fall'                    │
+│   240   │                     'NASCAR Heat 5'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/nascar-heat-5'                     │
+│   241   │                   'Shadow Warrior 3'                    │  63   │                   'https://www.metacritic.com/game/playstation-4/shadow-warrior-3'                   │
+│   242   │                     'Space Junkies'                     │  63   │                    'https://www.metacritic.com/game/playstation-4/space-junkies'                     │
+│   243   │             'The Book of Unwritten Tales 2'             │  63   │            'https://www.metacritic.com/game/playstation-4/the-book-of-unwritten-tales-2'             │
+│   244   │   'The Witch and the Hundred Knight: Revival Edition'   │  63   │   'https://www.metacritic.com/game/playstation-4/the-witch-and-the-hundred-knight-revival-edition'   │
+│   245   │                  'This is the Police'                   │  63   │                  'https://www.metacritic.com/game/playstation-4/this-is-the-police'                  │
+│   246   │                  'Whispering Willows'                   │  63   │                  'https://www.metacritic.com/game/playstation-4/whispering-willows'                  │
+│   247   │                   'Agents of Mayhem'                    │  62   │                   'https://www.metacritic.com/game/playstation-4/agents-of-mayhem'                   │
+│   248   │                      'Back to Bed'                      │  62   │                     'https://www.metacritic.com/game/playstation-4/back-to-bed'                      │
+│   249   │                 'Destruction Allstars'                  │  62   │                 'https://www.metacritic.com/game/playstation-4/destruction-allstars'                 │
+│   250   │               'Flatout 4: Total Insanity'               │  62   │               'https://www.metacritic.com/game/playstation-4/flatout-4-total-insanity'               │
+│   251   │                   'Malicious Fallen'                    │  62   │                   'https://www.metacritic.com/game/playstation-4/malicious-fallen'                   │
+│   252   │                       'Velocibox'                       │  62   │                      'https://www.metacritic.com/game/playstation-4/velocibox'                       │
+│   253   │                         'Ashen'                         │  61   │                        'https://www.metacritic.com/game/playstation-4/ashen'                         │
+│   254   │                       'Brawlout'                        │  61   │                       'https://www.metacritic.com/game/playstation-4/brawlout'                       │
+│   255   │                      'Dungeons 2'                       │  61   │                      'https://www.metacritic.com/game/playstation-4/dungeons-2'                      │
+│   256   │               'Friday the 13th: The Game'               │  61   │               'https://www.metacritic.com/game/playstation-4/friday-the-13th-the-game'               │
+│   257   │                   'Graveyard Keeper'                    │  61   │                   'https://www.metacritic.com/game/playstation-4/graveyard-keeper'                   │
+│   258   │              'Monster Jam Steel Titans 2'               │  61   │              'https://www.metacritic.com/game/playstation-4/monster-jam-steel-titans-2'              │
+│   259   │                  'Risk Urban Assault'                   │  61   │                  'https://www.metacritic.com/game/playstation-4/risk-urban-assault'                  │
+│   260   │                       'The Crew'                        │  61   │                       'https://www.metacritic.com/game/playstation-4/the-crew'                       │
+│   261   │        'FIA European Truck Racing Championship'         │  60   │        'https://www.metacritic.com/game/playstation-4/fia-european-truck-racing-championship'        │
+│   262   │                   'The Technomancer'                    │  60   │                   'https://www.metacritic.com/game/playstation-4/the-technomancer'                   │
+│   263   │                       'Entwined'                        │  59   │                       'https://www.metacritic.com/game/playstation-4/entwined'                       │
+│   264   │              'Necromunda: Underhive Wars'               │  59   │              'https://www.metacritic.com/game/playstation-4/necromunda-underhive-wars'               │
+│   265   │                  'Dark Rose Valkyrie'                   │  58   │                  'https://www.metacritic.com/game/playstation-4/dark-rose-valkyrie'                  │
+│   266   │                         'Elex'                          │  58   │                         'https://www.metacritic.com/game/playstation-4/elex'                         │
+│   267   │                 'Goosebumps: The Game'                  │  58   │                 'https://www.metacritic.com/game/playstation-4/goosebumps-the-game'                  │
+│   268   │                 'Mitsurugi Kamui Hikae'                 │  58   │                'https://www.metacritic.com/game/playstation-4/mitsurugi-kamui-hikae'                 │
+│   269   │                     'Omega Quintet'                     │  58   │                    'https://www.metacritic.com/game/playstation-4/omega-quintet'                     │
+│   270   │                 'This is the Police 2'                  │  58   │                 'https://www.metacritic.com/game/playstation-4/this-is-the-police-2'                 │
+│   271   │                  'Kingdom: New Lands'                   │  57   │                  'https://www.metacritic.com/game/playstation-4/kingdom-new-lands'                   │
+│   272   │                        'Adr1ft'                         │  56   │                        'https://www.metacritic.com/game/playstation-4/adr1ft'                        │
+│   273   │                      'Chess Ultra'                      │  56   │                     'https://www.metacritic.com/game/playstation-4/chess-ultra'                      │
+│   274   │                    'Dangerous Golf'                     │  56   │                    'https://www.metacritic.com/game/playstation-4/dangerous-golf'                    │
+│   275   │        'Surgeon Simulator: Anniversary Edition'         │  56   │        'https://www.metacritic.com/game/playstation-4/surgeon-simulator-anniversary-edition'         │
+│   276   │                  'Tennis World Tour 2'                  │  56   │                 'https://www.metacritic.com/game/playstation-4/tennis-world-tour-2'                  │
+│   277   │                     "Akiba's Beat"                      │  55   │                     'https://www.metacritic.com/game/playstation-4/akibas-beat'                      │
+│   278   │                    'Fade to Silence'                    │  55   │                   'https://www.metacritic.com/game/playstation-4/fade-to-silence'                    │
+│   279   │           'Totally Reliable Delivery Service'           │  55   │          'https://www.metacritic.com/game/playstation-4/totally-reliable-delivery-service'           │
+│   280   │           'Touhou Genso Rondo: Bullet Ballet'           │  55   │           'https://www.metacritic.com/game/playstation-4/touhou-genso-rondo-bullet-ballet'           │
+│   281   │              'Trials of the Blood Dragon'               │  55   │              'https://www.metacritic.com/game/playstation-4/trials-of-the-blood-dragon'              │
+│   282   │                     'Black Mirror'                      │  54   │                     'https://www.metacritic.com/game/playstation-4/black-mirror'                     │
+│   283   │                         'KNACK'                         │  54   │                        'https://www.metacritic.com/game/playstation-4/knack'                         │
+│   284   │                       'Overpass'                        │  54   │                       'https://www.metacritic.com/game/playstation-4/overpass'                       │
+│   285   │                         '2Dark'                         │  54   │                        'https://www.metacritic.com/game/playstation-4/2dark'                         │
+│   286   │                    'Bound by Flame'                     │  53   │                    'https://www.metacritic.com/game/playstation-4/bound-by-flame'                    │
+│   287   │                      'Fallout 76'                       │  53   │                      'https://www.metacritic.com/game/playstation-4/fallout-76'                      │
+│   288   │        'GUNVOLT CHRONICLES LUMINOUS AVENGER IX'         │  52   │        'https://www.metacritic.com/game/playstation-4/gunvolt-chronicles-luminous-avenger-ix'        │
+│   289   │             'Override 2: Super Mech League'             │  52   │             'https://www.metacritic.com/game/playstation-4/override-2-super-mech-league'             │
+│   290   │                'Carmageddon: Max Damage'                │  51   │                'https://www.metacritic.com/game/playstation-4/carmageddon-max-damage'                │
+│   291   │                      'I am Bread'                       │  51   │                      'https://www.metacritic.com/game/playstation-4/i-am-bread'                      │
+│   292   │                    'Hello Neighbor'                     │  50   │                    'https://www.metacritic.com/game/playstation-4/hello-neighbor'                    │
+│   293   │                     'Pixel Piracy'                      │  50   │                     'https://www.metacritic.com/game/playstation-4/pixel-piracy'                     │
+│   294   │               'Homefront: The Revolution'               │  48   │               'https://www.metacritic.com/game/playstation-4/homefront-the-revolution'               │
+│   295   │                     'Bee Simulator'                     │  47   │                    'https://www.metacritic.com/game/playstation-4/bee-simulator'                     │
+│   296   │            'Bubsy: The Woolies Strike Back'             │  45   │            'https://www.metacritic.com/game/playstation-4/bubsy-the-woolies-strike-back'             │
+│   297   │                   'Balan Wonderworld'                   │  44   │                  'https://www.metacritic.com/game/playstation-4/balan-wonderworld'                   │
+│   298   │                     'Empire of Sin'                     │  43   │                    'https://www.metacritic.com/game/playstation-4/empire-of-sin'                     │
+│   299   │                   'MX vs ATV All Out'                   │  42   │                  'https://www.metacritic.com/game/playstation-4/mx-vs-atv-all-out'                   │
+│   300   │         'Werewolf: The Apocalypse - Earthblood'         │  42   │         'https://www.metacritic.com/game/playstation-4/werewolf-the-apocalypse---earthblood'         │
+│   301   │                       'Last Stop'                       │  40   │                      'https://www.metacritic.com/game/playstation-4/last-stop'                       │
+│   302   │                     'FLUSTER CLUCK'                     │  37   │                    'https://www.metacritic.com/game/playstation-4/fluster-cluck'                     │
+│   303   │              'Rapala Fishing: Pro Series'               │  33   │              'https://www.metacritic.com/game/playstation-4/rapala-fishing-pro-series'               │
+│   304   │                        'TorqueL'                        │  32   │                       'https://www.metacritic.com/game/playstation-4/torquel'                        │
+│   305   │                'Harvest Moon: One World'                │  28   │                'https://www.metacritic.com/game/playstation-4/harvest-moon-one-world'                │
+│   306   │           'Cartoon Network: Battle Crashers'            │  21   │           'https://www.metacritic.com/game/playstation-4/cartoon-network-battle-crashers'            │
+│   307   │                       'Unturned'                        │  16   │                       'https://www.metacritic.com/game/playstation-4/unturned'                       │
+│   308   │                    'Ace of Seafood'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/ace-of-seafood'                    │
+│   309   │                       'Bad North'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/bad-north'                       │
+│   310   │                      'Bomber Crew'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/bomber-crew'                      │
+│   311   │                    'Chicken Police'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/chicken-police'                    │
+│   312   │                   'Cities: Skylines'                    │   0   │                   'https://www.metacritic.com/game/playstation-4/cities-skylines'                    │
+│   313   │                 'Clouds &amp; Sheep 2'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/clouds-&amp-sheep-2'                  │
+│   314   │        'Concrete Genie: Digital Deluxe Edition'         │   0   │        'https://www.metacritic.com/game/playstation-4/concrete-genie-digital-deluxe-edition'         │
+│   315   │                      'ConnecTank'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/connectank'                      │
+│   316   │       'Damascus Gear: Operation Tokyo HD Edition'       │   0   │       'https://www.metacritic.com/game/playstation-4/damascus-gear-operation-tokyo-hd-edition'       │
+│   317   │            'Dandara: Trials of Fear Edition'            │   0   │            'https://www.metacritic.com/game/playstation-4/dandara-trials-of-fear-edition'            │
+│   318   │                    'DCL - The Game'                     │   0   │                    'https://www.metacritic.com/game/playstation-4/dcl---the-game'                    │
+│   319   │                  'Death end re;Quest2'                  │   0   │                  'https://www.metacritic.com/game/playstation-4/death-end-request2'                  │
+│   320   │        'Disaster Report 4 Plus: Summer Memories'        │   0   │        'https://www.metacritic.com/game/playstation-4/disaster-report-4-plus-summer-memories'        │
+│   321   │  'Earth Defense Force 4.1: The Shadow of New Despair'   │   0   │  'https://www.metacritic.com/game/playstation-4/earth-defense-force-4.1-the-shadow-of-new-despair'   │
+│   322   │                 'Electronic Super Joy'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/electronic-super-joy'                 │
+│   323   │                         'Embr'                          │   0   │                         'https://www.metacritic.com/game/playstation-4/embr'                         │
+│   324   │        'Far Cry 3 Blood Dragon: Classic Edition'        │   0   │        'https://www.metacritic.com/game/playstation-4/far-cry-3-blood-dragon-classic-edition'        │
+│   325   │         'FIGHTING EX LAYER - Standard Version'          │   0   │         'https://www.metacritic.com/game/playstation-4/fighting-ex-layer---standard-version'         │
+│   326   │            'Final Fantasy X/X-2 HD Remaster'            │   0   │           'https://www.metacritic.com/game/playstation-4/final-fantasy-x/x-2-hd-remaster'            │
+│   327   │                       'Gabbuchi'                        │   0   │                       'https://www.metacritic.com/game/playstation-4/gabbuchi'                       │
+│   328   │                   'GAL GUNVOLT BURST'                   │   0   │                  'https://www.metacritic.com/game/playstation-4/gal-gunvolt-burst'                   │
+│   329   │      'HARVEST MOON LIGHT OF HOPE SPECIAL EDITION'       │   0   │      'https://www.metacritic.com/game/playstation-4/harvest-moon-light-of-hope-special-edition'      │
+│   330   │                'Harvest Moon: Mad Dash'                 │   0   │                'https://www.metacritic.com/game/playstation-4/harvest-moon-mad-dash'                 │
+│   331   │                       'I am Dead'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/i-am-dead'                       │
+│   332   │                      'JumpJet Rex'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/jumpjet-rex'                      │
+│   333   │                         'KeyWe'                         │   0   │                        'https://www.metacritic.com/game/playstation-4/keywe'                         │
+│   334   │            'Killzone: Shadow Fall Intercept'            │   0   │            'https://www.metacritic.com/game/playstation-4/killzone-shadow-fall-intercept'            │
+│   335   │                 'Lawn Mowing Simulator'                 │   0   │                'https://www.metacritic.com/game/playstation-4/lawn-mowing-simulator'                 │
+│   336   │              'Left Alive: Day One Edition'              │   0   │              'https://www.metacritic.com/game/playstation-4/left-alive-day-one-edition'              │
+│   337   │                   'Legendary Fishing'                   │   0   │                  'https://www.metacritic.com/game/playstation-4/legendary-fishing'                   │
+│   338   │                  'Legends of Ethernal'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/legends-of-ethernal'                  │
+│   339   │                  'Little Big Workshop'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/little-big-workshop'                  │
+│   340   │                        'Mahjong'                        │   0   │                       'https://www.metacritic.com/game/playstation-4/mahjong'                        │
+│   341   │                  'Marvel Puzzle Quest'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/marvel-puzzle-quest'                  │
+│   342   │     "Marvel's Spider-Man: Game of the Year Edition"     │   0   │     'https://www.metacritic.com/game/playstation-4/marvels-spider-man-game-of-the-year-edition'      │
+│   343   │                     'Mighty No. 9'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/mighty-no.-9'                     │
+│   344   │                       'Mudrunner'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/mudrunner'                       │
+│   345   │                       'MXGP 2021'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/mxgp-2021'                       │
+│   346   │                      'Nidhogg II'                       │   0   │                      'https://www.metacritic.com/game/playstation-4/nidhogg-ii'                      │
+│   347   │                'Observer: System Redux'                 │   0   │                'https://www.metacritic.com/game/playstation-4/observer-system-redux'                 │
+│   348   │                "Oddworld: New 'n' Tasty"                │   0   │                 'https://www.metacritic.com/game/playstation-4/oddworld-new-n-tasty'                 │
+│   349   │                  'Pile Up! Box by Box'                  │   0   │                 'https://www.metacritic.com/game/playstation-4/pile-up!-box-by-box'                  │
+│   350   │         "Pure Hold'em World Poker Championship"         │   0   │         'https://www.metacritic.com/game/playstation-4/pure-holdem-world-poker-championship'         │
+│   351   │           'Reel Fishing: Road Trip Adventure'           │   0   │           'https://www.metacritic.com/game/playstation-4/reel-fishing-road-trip-adventure'           │
 │   352   │           'Rock of Ages 3: Make &amp; Break'            │   0   │            'https://www.metacritic.com/game/playstation-4/rock-of-ages-3-make-&amp-break'            │
 │   353   │                    'Secret Neighbor'                    │   0   │                   'https://www.metacritic.com/game/playstation-4/secret-neighbor'                    │
 │   354   │                      'Sine Mora X'                      │   0   │                     'https://www.metacritic.com/game/playstation-4/sine-mora-x'                      │

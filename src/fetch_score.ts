@@ -1,7 +1,10 @@
 import axios from "axios";
 import { parse } from "node-html-parser";
 
-export const fetchScore = async (url: string): Promise<number> => {
+export const fetchScore = async (
+  url: string,
+  tryNo: number = 1
+): Promise<number> => {
   try {
     console.log(`... fetching ${url}`);
     const { data } = await axios.get(url);
@@ -28,6 +31,8 @@ export const fetchScore = async (url: string): Promise<number> => {
   } catch (error) {
     if (url.includes("---")) {
       return fetchScore(url.replace("---", "-"));
+    } else if (tryNo === 1) {
+      return fetchScore(url.replace("playstation-4", "playstation-5"), 2);
     }
 
     return 0;

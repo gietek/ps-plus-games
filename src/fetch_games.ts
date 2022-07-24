@@ -1,36 +1,50 @@
-import axios from "axios";
+import fs from "fs/promises";
 import { parse } from "node-html-parser";
+import { Game, Platform, PlatformUrl } from "./types";
 
-const url = "https://www.playstation.com/pl-pl/ps-plus/games/";
-const metacriticBaseUrl = "https://www.metacritic.com/game/playstation-4/";
+const gamesFileName = "./data/games.html";
+
+const platformUrl: PlatformUrl = {
+  PS4: "playstation-4",
+  PS5: "playstation-5",
+};
+
+const generateUrl = (title: string, platform: Platform) => {
+  const metacriticBaseUrl = "https://www.metacritic.com/game/";
+
+  const path = title
+    .toLowerCase()
+    .replace(/:/g, "")
+    .replace(/'/g, "")
+    .replace(/;/g, "")
+    .replace(/-&amp;/g, "")
+    .replace(/ /g, "-");
+
+  return `${metacriticBaseUrl}${platformUrl[platform]}/${path}`;
+};
 
 export const fetchGames = async () => {
-  const { data } = await axios.get(url);
+  const content = await fs.readFile(gamesFileName, "utf-8");
+  const rootNode = parse(content);
+  const list = Array.from(rootNode.querySelectorAll("li"));
 
-  const rootNode = parse(data);
-  const tabsContent = rootNode.querySelector(".tabs-content");
+  const games = list.reduce<Game[]>((acc, node) => {
+    const platformPills = node.querySelectorAll(".pill");
+    const platform = platformPills[platformPills.length - 1]
+      .textContent as Platform;
+    const link = node.querySelector("a")!;
+    let title = link.textContent.replace("\n", "");
 
-  if (!tabsContent) {
-    return [];
-  }
+    while (title.includes("  ")) {
+      title = title.replace(/  /g, " ");
+    }
 
-  const games = tabsContent.querySelectorAll(".txt-style-base");
-  const titles = Array.from(games).map((node) => {
-    const title = node.innerText.trim().replace(/\*/g, "");
-    const path = title
-      .toLowerCase()
-      .replace(/:/g, "")
-      .replace(/'/g, "")
-      .replace(/;/g, "")
-      .replace(/-&amp;/g, "")
-      .replace(/ /g, "-");
-    const url = `${metacriticBaseUrl}${path}`;
+    const url = generateUrl(title, platform);
 
-    return {
-      title,
-      url,
-    };
-  });
+    acc.push({ url, title, platform });
 
-  return titles;
+    return acc;
+  }, []);
+
+  return games;
 };

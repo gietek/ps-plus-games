@@ -1,11 +1,7 @@
+import axios from "axios";
 import { fetchGames } from "./fetch_games";
 import { fetchScore } from "./fetch_score";
-
-interface Score {
-  title: string;
-  score: number;
-  url: string;
-}
+import { Score } from "./types";
 
 const start = async () => {
   const games = await fetchGames();
@@ -13,9 +9,9 @@ const start = async () => {
   let scores: Score[] = [];
 
   for (let game of games) {
-    const { title, url } = game;
+    const { title, url, platform } = game;
     const score = await fetchScore(url);
-    scores.push({ title, score, url });
+    scores.push({ platform, title, score, url });
   }
 
   scores.sort((a, b) => {

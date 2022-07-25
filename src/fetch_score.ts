@@ -8,7 +8,7 @@ export const fetchScore = async (url: string): Promise<number> => {
 
     const rootNode = parse(data);
 
-    const score = rootNode.querySelector(".score_summary a div");
+    const score = rootNode.querySelector("span[itemprop=ratingValue]");
 
     if (score) {
       const res = parseFloat(score.textContent);

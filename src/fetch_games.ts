@@ -17,8 +17,13 @@ const generateUrl = (title: string, platform: Platform) => {
     .replace(/:/g, "")
     .replace(/'/g, "")
     .replace(/;/g, "")
+    .replace(/û/g, "u")
+    .replace("|", "-")
+    .replace(",", "")
+    .replace(/\./g, "")
     .replace(/-&amp;/g, "")
-    .replace(/ /g, "-");
+    .replace(/ /g, "-")
+    .replace("/", "");
 
   return `${metacriticBaseUrl}${platformUrl[platform]}/${path}`;
 };

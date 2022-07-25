@@ -10,21 +10,29 @@ export const fetchScore = async (url: string): Promise<number> => {
 
     const score = rootNode.querySelector("span[itemprop=ratingValue]");
 
-    if (score) {
-      const res = parseFloat(score.textContent);
+    if (!score) {
+      const userScore = rootNode.querySelector(".userscore_wrap a");
 
-      if (isNaN(res)) {
-        return 0;
+      if (userScore) {
+        const res = parseFloat(userScore.textContent.trim()) * 10;
+
+        if (isNaN(res)) {
+          throw new Error();
+        }
+
+        return res;
       }
 
-      if (res < 10) {
-        return 10 * res; // user score is 0-10
-      }
-
-      return res;
-    } else {
       throw new Error();
     }
+
+    const res = parseFloat(score.textContent);
+
+    if (isNaN(res)) {
+      throw new Error();
+    }
+
+    return res;
   } catch (error) {
     if (url.includes("---")) {
       return fetchScore(url.replace("---", "-"));

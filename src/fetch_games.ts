@@ -12,7 +12,17 @@ const platformUrl: PlatformUrl = {
 const generateUrl = (title: string, platform: Platform) => {
   const metacriticBaseUrl = "https://www.metacritic.com/game/";
 
-  const path = title
+  let plainTitle = title;
+
+  if (plainTitle.includes(":") && plainTitle.includes("Edition")) {
+    plainTitle = plainTitle.split(":")[0];
+  }
+
+  if (plainTitle.includes(":") && plainTitle.includes("Season")) {
+    plainTitle = plainTitle.split(":")[0];
+  }
+
+  const path = plainTitle
     .toLowerCase()
     .replace(/:/g, "")
     .replace(/'/g, "")

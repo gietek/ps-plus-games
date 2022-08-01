@@ -1,4 +1,4 @@
-import axios from "axios";
+import fs from "fs";
 import { fetchGames } from "./fetch_games";
 import { fetchScore } from "./fetch_score";
 import { Score } from "./types";
@@ -27,6 +27,12 @@ const start = async () => {
   });
 
   console.table(scores);
+
+  fs.writeFileSync(
+    "./output/games.json",
+    JSON.stringify(scores, null, 2),
+    "utf-8"
+  );
 };
 
 start();

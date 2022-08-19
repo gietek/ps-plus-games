@@ -211,6 +211,18 @@
   },
   {
     "platform": "PS4",
+    "title": "Yakuza 0",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/playstation-4/yakuza-0"
+  },
+  {
+    "platform": "PS4",
+    "title": "Yakuza: Kiwami 2",
+    "score": 85,
+    "url": "https://www.metacritic.com/game/playstation-4/yakuza-kiwami-2"
+  },
+  {
+    "platform": "PS4",
     "title": "Ys VIII: Lacrimosa of Dana",
     "score": 85,
     "url": "https://www.metacritic.com/game/playstation-4/ys-viii-lacrimosa-of-dana"
@@ -246,12 +258,6 @@
     "url": "https://www.metacritic.com/game/playstation-4/soulcalibur-vi"
   },
   {
-    "platform": "PS5",
-    "title": "Stray",
-    "score": 84,
-    "url": "https://www.metacritic.com/game/playstation-5/stray"
-  },
-  {
     "platform": "PS4",
     "title": "Uncharted: The Lost Legacy",
     "score": 84,
@@ -268,6 +274,18 @@
     "title": "Bloodstained: Ritual of the Night",
     "score": 83,
     "url": "https://www.metacritic.com/game/playstation-4/bloodstained-ritual-of-the-night"
+  },
+  {
+    "platform": "PS5",
+    "title": "Metro Exodus",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-5/metro-exodus"
+  },
+  {
+    "platform": "PS5",
+    "title": "Stray",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-5/stray"
   },
   {
     "platform": "PS4",
@@ -484,6 +502,12 @@
     "title": "Watch Dogs",
     "score": 80,
     "url": "https://www.metacritic.com/game/playstation-4/watch-dogs"
+  },
+  {
+    "platform": "PS4",
+    "title": "Yakuza: Kiwami",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/playstation-4/yakuza-kiwami"
   },
   {
     "platform": "PS4",
@@ -751,6 +775,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Trials of Mana",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/playstation-4/trials-of-mana"
+  },
+  {
+    "platform": "PS4",
     "title": "Tropico 5",
     "score": 76,
     "url": "https://www.metacritic.com/game/playstation-4/tropico-5"
@@ -772,6 +802,12 @@
     "title": "Battle Chasers: Nightwar",
     "score": 75,
     "url": "https://www.metacritic.com/game/playstation-4/battle-chasers-nightwar"
+  },
+  {
+    "platform": "PS5",
+    "title": "Bugsnax",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/playstation-5/bugsnax"
   },
   {
     "platform": "PS4",
@@ -1033,12 +1069,6 @@
   },
   {
     "platform": "PS4",
-    "title": "Killzone: Shadow Fall - Intercept",
-    "score": 72,
-    "url": "https://www.metacritic.com/game/playstation-4/killzone-shadow-fall---intercept"
-  },
-  {
-    "platform": "PS4",
     "title": "Magicka 2",
     "score": 72,
     "url": "https://www.metacritic.com/game/playstation-4/magicka-2"
@@ -1189,6 +1219,12 @@
   },
   {
     "platform": "PS4",
+    "title": "UNO",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/playstation-4/uno"
+  },
+  {
+    "platform": "PS4",
     "title": "Zombi",
     "score": 71,
     "url": "https://www.metacritic.com/game/playstation-4/zombi"
@@ -1240,6 +1276,12 @@
     "title": "Sundered: Eldritch Edition",
     "score": 70,
     "url": "https://www.metacritic.com/game/playstation-4/sundered"
+  },
+  {
+    "platform": "PS4",
+    "title": "Tom Clancy's Ghost Recon: Wildlands",
+    "score": 70,
+    "url": "https://www.metacritic.com/game/playstation-4/tom-clancys-ghost-recon-wildlands"
   },
   {
     "platform": "PS4",
@@ -1392,12 +1434,6 @@
     "url": "https://www.metacritic.com/game/playstation-4/romance-of-the-three-kingdoms-xiii"
   },
   {
-    "platform": "PS5",
-    "title": "Saints Row The Third Remastered",
-    "score": 67,
-    "url": "https://www.metacritic.com/game/playstation-5/saints-row-the-third-remastered"
-  },
-  {
     "platform": "PS4",
     "title": "Shenmue III",
     "score": 67,
@@ -1540,6 +1576,12 @@
     "title": "Rebel Galaxy",
     "score": 64,
     "url": "https://www.metacritic.com/game/playstation-4/rebel-galaxy"
+  },
+  {
+    "platform": "PS5",
+    "title": "Saints Row The Third Remastered",
+    "score": 64,
+    "url": "https://www.metacritic.com/game/playstation-5/saints-row-the-third-remastered"
   },
   {
     "platform": "PS4",
@@ -1711,6 +1753,12 @@
   },
   {
     "platform": "PS4",
+    "title": "PAW Patrol: On a Roll",
+    "score": 61,
+    "url": "https://www.metacritic.com/game/playstation-4/paw-patrol-on-a-roll"
+  },
+  {
+    "platform": "PS4",
     "title": "RISK: Urban Assault",
     "score": 61,
     "url": "https://www.metacritic.com/game/playstation-4/risk-urban-assault"
@@ -1756,12 +1804,6 @@
     "title": "Necromunda: Underhive Wars",
     "score": 59,
     "url": "https://www.metacritic.com/game/playstation-4/necromunda-underhive-wars"
-  },
-  {
-    "platform": "PS4",
-    "title": "PAW Patrol: On a Roll",
-    "score": 59,
-    "url": "https://www.metacritic.com/game/playstation-4/paw-patrol-on-a-roll"
   },
   {
     "platform": "PS4",
@@ -1963,15 +2005,21 @@
   },
   {
     "platform": "PS4",
+    "title": "Hello Neighbor",
+    "score": 51,
+    "url": "https://www.metacritic.com/game/playstation-4/hello-neighbor"
+  },
+  {
+    "platform": "PS4",
     "title": "I Am Bread",
     "score": 51,
     "url": "https://www.metacritic.com/game/playstation-4/i-am-bread"
   },
   {
     "platform": "PS4",
-    "title": "Hello Neighbor",
+    "title": "Little Big Workshop",
     "score": 50,
-    "url": "https://www.metacritic.com/game/playstation-4/hello-neighbor"
+    "url": "https://www.metacritic.com/game/playstation-4/little-big-workshop"
   },
   {
     "platform": "PS4",
@@ -1993,15 +2041,21 @@
   },
   {
     "platform": "PS4",
-    "title": "Bubsy: The Woolies Strike Back",
-    "score": 45,
-    "url": "https://www.metacritic.com/game/playstation-4/bubsy-the-woolies-strike-back"
+    "title": "Monopoly Plus",
+    "score": 47,
+    "url": "https://www.metacritic.com/game/playstation-4/monopoly-plus"
   },
   {
     "platform": "PS4",
-    "title": "Little Big Workshop",
+    "title": "Bad North",
+    "score": 46,
+    "url": "https://www.metacritic.com/game/playstation-4/bad-north"
+  },
+  {
+    "platform": "PS4",
+    "title": "Bubsy: The Woolies Strike Back",
     "score": 45,
-    "url": "https://www.metacritic.com/game/playstation-4/little-big-workshop"
+    "url": "https://www.metacritic.com/game/playstation-4/bubsy-the-woolies-strike-back"
   },
   {
     "platform": "PS4",
@@ -2029,12 +2083,6 @@
   },
   {
     "platform": "PS4",
-    "title": "Bad North",
-    "score": 35,
-    "url": "https://www.metacritic.com/game/playstation-4/bad-north"
-  },
-  {
-    "platform": "PS4",
     "title": "Rapala Fishing Pro Series",
     "score": 33,
     "url": "https://www.metacritic.com/game/playstation-4/rapala-fishing-pro-series"
@@ -2050,6 +2098,12 @@
     "title": "Harvest Moon: One World",
     "score": 28,
     "url": "https://www.metacritic.com/game/playstation-4/harvest-moon-one-world"
+  },
+  {
+    "platform": "PS5",
+    "title": "Dead by Daylight",
+    "score": 22,
+    "url": "https://www.metacritic.com/game/playstation-5/dead-by-daylight"
   },
   {
     "platform": "PS4",
@@ -2233,6 +2287,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Monopoly Madness",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-4/monopoly-madness"
+  },
+  {
+    "platform": "PS4",
     "title": "MX vs. ATV All Out: Anniversary Collection",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/mx-vs-atv-all-out-anniversary-collection"
@@ -2362,6 +2422,12 @@
     "title": "Townsmen: A Kingdom Rebuilt",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/townsmen-a-kingdom-rebuilt"
+  },
+  {
+    "platform": "PS4",
+    "title": "Wheel of Fortune",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-4/wheel-of-fortune"
   },
   {
     "platform": "PS5",

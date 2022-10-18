@@ -31,6 +31,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Inside",
+    "score": 91,
+    "url": "https://www.metacritic.com/game/playstation-4/inside"
+  },
+  {
+    "platform": "PS4",
     "title": "Shadow of the Colossus",
     "score": 91,
     "url": "https://www.metacritic.com/game/playstation-4/shadow-of-the-colossus"
@@ -96,6 +102,12 @@
     "url": "https://www.metacritic.com/game/playstation-4/batman-arkham-knight"
   },
   {
+    "platform": "PS5",
+    "title": "Chicory: A Colorful Tale",
+    "score": 87,
+    "url": "https://www.metacritic.com/game/playstation-5/chicory-a-colorful-tale"
+  },
+  {
     "platform": "PS4",
     "title": "Dead Cells",
     "score": 87,
@@ -148,6 +160,12 @@
     "title": "XCOM 2",
     "score": 87,
     "url": "https://www.metacritic.com/game/playstation-4/xcom-2"
+  },
+  {
+    "platform": "PS4",
+    "title": "Dragon Quest Builders 2",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-builders-2"
   },
   {
     "platform": "PS4",
@@ -271,9 +289,21 @@
   },
   {
     "platform": "PS4",
+    "title": "Assassin's Creed Odyssey",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-odyssey"
+  },
+  {
+    "platform": "PS4",
     "title": "Bloodstained: Ritual of the Night",
     "score": 83,
     "url": "https://www.metacritic.com/game/playstation-4/bloodstained-ritual-of-the-night"
+  },
+  {
+    "platform": "PS4",
+    "title": "Dragon Quest Builders",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-builders"
   },
   {
     "platform": "PS5",
@@ -715,6 +745,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-heroes-the-world-trees-woe-and-the-blight-below"
+  },
+  {
+    "platform": "PS4",
     "title": "Hotshot Racing",
     "score": 77,
     "url": "https://www.metacritic.com/game/playstation-4/hotshot-racing"
@@ -775,15 +811,21 @@
   },
   {
     "platform": "PS4",
-    "title": "Momodora: Reverie Under the Moonlight",
+    "title": "Assassin's Creed Syndicate",
     "score": 76,
-    "url": "https://www.metacritic.com/game/playstation-4/momodora-reverie-under-the-moonlight"
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-syndicate"
   },
   {
     "platform": "PS4",
-    "title": "PGA Tour 2K21",
+    "title": "Dragon Quest Heroes II",
     "score": 76,
-    "url": "https://www.metacritic.com/game/playstation-4/pga-tour-2k21"
+    "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-heroes-ii"
+  },
+  {
+    "platform": "PS4",
+    "title": "Momodora: Reverie Under the Moonlight",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/playstation-4/momodora-reverie-under-the-moonlight"
   },
   {
     "platform": "PS4",
@@ -841,6 +883,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Hohokum",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/playstation-4/hohokum"
+  },
+  {
+    "platform": "PS4",
     "title": "Hotline Miami 2: Wrong Number",
     "score": 75,
     "url": "https://www.metacritic.com/game/playstation-4/hotline-miami-2-wrong-number"
@@ -892,6 +940,12 @@
     "title": "The Long Dark",
     "score": 75,
     "url": "https://www.metacritic.com/game/playstation-4/the-long-dark"
+  },
+  {
+    "platform": "PS5",
+    "title": "The Medium",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/playstation-5/the-medium"
   },
   {
     "platform": "PS4",
@@ -1066,6 +1120,12 @@
     "title": "The Surge",
     "score": 73,
     "url": "https://www.metacritic.com/game/playstation-4/the-surge"
+  },
+  {
+    "platform": "PS4",
+    "title": "Assassin's Creed III Remastered",
+    "score": 72,
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-iii-remastered"
   },
   {
     "platform": "PS4",
@@ -1336,6 +1396,12 @@
     "title": "AO Tennis 2",
     "score": 69,
     "url": "https://www.metacritic.com/game/playstation-4/ao-tennis-2"
+  },
+  {
+    "platform": "PS4",
+    "title": "Assassin's Creed Chronicles: China",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-chronicles-china"
   },
   {
     "platform": "PS4",
@@ -1663,6 +1729,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Assassin's Creed Chronicles: India",
+    "score": 63,
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-chronicles-india"
+  },
+  {
+    "platform": "PS4",
     "title": "Call of Cthulhu",
     "score": 63,
     "url": "https://www.metacritic.com/game/playstation-4/call-of-cthulhu"
@@ -1777,6 +1849,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Naruto to Boruto: Shinobi Striker",
+    "score": 61,
+    "url": "https://www.metacritic.com/game/playstation-4/naruto-to-boruto-shinobi-striker"
+  },
+  {
+    "platform": "PS4",
     "title": "PAW Patrol: On a Roll",
     "score": 61,
     "url": "https://www.metacritic.com/game/playstation-4/paw-patrol-on-a-roll"
@@ -1792,6 +1870,12 @@
     "title": "The Crew",
     "score": 61,
     "url": "https://www.metacritic.com/game/playstation-4/the-crew"
+  },
+  {
+    "platform": "PS4",
+    "title": "Assassin's Creed Chronicles: Russia",
+    "score": 60,
+    "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-chronicles-russia"
   },
   {
     "platform": "PS4",
@@ -1819,9 +1903,9 @@
   },
   {
     "platform": "PS4",
-    "title": "Chicory: A Colorful Tale",
+    "title": "Ashen",
     "score": 59,
-    "url": "https://www.metacritic.com/game/playstation-4/chicory-a-colorful-tale"
+    "url": "https://www.metacritic.com/game/playstation-4/ashen"
   },
   {
     "platform": "PS4",
@@ -1834,12 +1918,6 @@
     "title": "Necromunda: Underhive Wars",
     "score": 59,
     "url": "https://www.metacritic.com/game/playstation-4/necromunda-underhive-wars"
-  },
-  {
-    "platform": "PS4",
-    "title": "Ashen",
-    "score": 58,
-    "url": "https://www.metacritic.com/game/playstation-4/ashen"
   },
   {
     "platform": "PS4",
@@ -1912,12 +1990,6 @@
     "title": "Adr1ft",
     "score": 56,
     "url": "https://www.metacritic.com/game/playstation-4/adr1ft"
-  },
-  {
-    "platform": "PS4",
-    "title": "Chess Ultra",
-    "score": 56,
-    "url": "https://www.metacritic.com/game/playstation-4/chess-ultra"
   },
   {
     "platform": "PS4",
@@ -2062,6 +2134,12 @@
     "title": "I Am Bread",
     "score": 51,
     "url": "https://www.metacritic.com/game/playstation-4/i-am-bread"
+  },
+  {
+    "platform": "PS4",
+    "title": "Chess Ultra",
+    "score": 50,
+    "url": "https://www.metacritic.com/game/playstation-4/chess-ultra"
   },
   {
     "platform": "PS4",
@@ -2227,6 +2305,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Dragon Quest XI S: Echoes of an Elusive Age",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-4/dragon-quest-xi-s-echoes-of-an-elusive-age"
+  },
+  {
+    "platform": "PS4",
     "title": "Electronic Super Joy",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/electronic-super-joy"
@@ -2260,6 +2344,12 @@
     "title": "GAL*GUNVOLT BURST",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/gal*gunvolt-burst"
+  },
+  {
+    "platform": "PS5",
+    "title": "Grand Theft Auto: Vice City - Definitive Edition",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-5/grand-theft-auto"
   },
   {
     "platform": "PS5",

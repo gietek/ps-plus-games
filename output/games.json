@@ -192,6 +192,12 @@
     "url": "https://www.metacritic.com/game/playstation-4/steinsgate-elite"
   },
   {
+    "platform": "PS5",
+    "title": "Yakuza: Like a Dragon",
+    "score": 86,
+    "url": "https://www.metacritic.com/game/playstation-5/yakuza-like-a-dragon"
+  },
+  {
     "platform": "PS4",
     "title": "428: Shibuya Scramble",
     "score": 85,
@@ -265,6 +271,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Middle-earth: Shadow of Mordor",
+    "score": 84,
+    "url": "https://www.metacritic.com/game/playstation-4/middle-earth-shadow-of-mordor"
+  },
+  {
+    "platform": "PS4",
     "title": "Resogun",
     "score": 84,
     "url": "https://www.metacritic.com/game/playstation-4/resogun"
@@ -312,6 +324,12 @@
     "url": "https://www.metacritic.com/game/playstation-4/final-fantasy-vii"
   },
   {
+    "platform": "PS5",
+    "title": "Judgment",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-5/judgment"
+  },
+  {
     "platform": "PS4",
     "title": "Kingdom Hearts III",
     "score": 83,
@@ -343,9 +361,15 @@
   },
   {
     "platform": "PS5",
-    "title": "Wytchwood",
+    "title": "The Pedestrian",
     "score": 83,
-    "url": "https://www.metacritic.com/game/playstation-5/wytchwood"
+    "url": "https://www.metacritic.com/game/playstation-5/the-pedestrian"
+  },
+  {
+    "platform": "PS4",
+    "title": "Yakuza 6: The Song of Life",
+    "score": 83,
+    "url": "https://www.metacritic.com/game/playstation-4/yakuza-6-the-song-of-life"
   },
   {
     "platform": "PS4",
@@ -424,6 +448,12 @@
     "title": "Brothers: A Tale of Two Sons",
     "score": 81,
     "url": "https://www.metacritic.com/game/playstation-4/brothers-a-tale-of-two-sons"
+  },
+  {
+    "platform": "PS4",
+    "title": "Far Cry 5",
+    "score": 81,
+    "url": "https://www.metacritic.com/game/playstation-4/far-cry-5"
   },
   {
     "platform": "PS4",
@@ -535,6 +565,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Middle-earth: Shadow of War",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/playstation-4/middle-earth-shadow-of-war"
+  },
+  {
+    "platform": "PS4",
     "title": "Prison Architect",
     "score": 80,
     "url": "https://www.metacritic.com/game/playstation-4/prison-architect"
@@ -568,6 +604,12 @@
     "title": "Watch Dogs",
     "score": 80,
     "url": "https://www.metacritic.com/game/playstation-4/watch-dogs"
+  },
+  {
+    "platform": "PS5",
+    "title": "Wytchwood",
+    "score": 80,
+    "url": "https://www.metacritic.com/game/playstation-5/wytchwood"
   },
   {
     "platform": "PS4",
@@ -696,6 +738,12 @@
     "url": "https://www.metacritic.com/game/playstation-4/everybodys-golf"
   },
   {
+    "platform": "PS5",
+    "title": "Evil Genius 2: World Domination",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/playstation-5/evil-genius-2-world-domination"
+  },
+  {
     "platform": "PS4",
     "title": "For Honor",
     "score": 78,
@@ -730,6 +778,12 @@
     "title": "This War of Mine: The Little Ones",
     "score": 78,
     "url": "https://www.metacritic.com/game/playstation-4/this-war-of-mine-the-little-ones"
+  },
+  {
+    "platform": "PS4",
+    "title": "Worms W.M.D",
+    "score": 78,
+    "url": "https://www.metacritic.com/game/playstation-4/worms-wmd"
   },
   {
     "platform": "PS4",
@@ -781,6 +835,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Pillars of Eternity II: Deadfire",
+    "score": 77,
+    "url": "https://www.metacritic.com/game/playstation-4/pillars-of-eternity-ii-deadfire"
+  },
+  {
+    "platform": "PS4",
     "title": "Sniper Elite 4",
     "score": 77,
     "url": "https://www.metacritic.com/game/playstation-4/sniper-elite-4"
@@ -829,6 +889,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Far Cry Primal",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/playstation-4/far-cry-primal"
+  },
+  {
+    "platform": "PS4",
     "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
     "score": 76,
     "url": "https://www.metacritic.com/game/playstation-4/kingdom-hearts-hd-28-final-chapter-prologue"
@@ -838,6 +904,12 @@
     "title": "Momodora: Reverie Under the Moonlight",
     "score": 76,
     "url": "https://www.metacritic.com/game/playstation-4/momodora-reverie-under-the-moonlight"
+  },
+  {
+    "platform": "PS4",
+    "title": "Mortal Shell",
+    "score": 76,
+    "url": "https://www.metacritic.com/game/playstation-4/mortal-shell"
   },
   {
     "platform": "PS4",
@@ -952,6 +1024,12 @@
     "title": "Star Trek: Bridge Crew",
     "score": 75,
     "url": "https://www.metacritic.com/game/playstation-4/star-trek-bridge-crew"
+  },
+  {
+    "platform": "PS4",
+    "title": "The Escapists 2",
+    "score": 75,
+    "url": "https://www.metacritic.com/game/playstation-4/the-escapists-2"
   },
   {
     "platform": "PS4",
@@ -1102,12 +1180,6 @@
     "title": "Marvel's Avengers",
     "score": 73,
     "url": "https://www.metacritic.com/game/playstation-5/marvels-avengers"
-  },
-  {
-    "platform": "PS5",
-    "title": "MXGP 2021 - The Official Motocross Videogame",
-    "score": 73,
-    "url": "https://www.metacritic.com/game/playstation-5/mxgp-2021---the-official-motocross-videogame"
   },
   {
     "platform": "PS4",
@@ -1267,6 +1339,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Far Cry: New Dawn",
+    "score": 71,
+    "url": "https://www.metacritic.com/game/playstation-4/far-cry-new-dawn"
+  },
+  {
+    "platform": "PS4",
     "title": "Get Even",
     "score": 71,
     "url": "https://www.metacritic.com/game/playstation-4/get-even"
@@ -1300,12 +1378,6 @@
     "title": "Relicta",
     "score": 71,
     "url": "https://www.metacritic.com/game/playstation-4/relicta"
-  },
-  {
-    "platform": "PS5",
-    "title": "RIDE 4",
-    "score": 71,
-    "url": "https://www.metacritic.com/game/playstation-5/ride-4"
   },
   {
     "platform": "PS4",
@@ -1507,6 +1579,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Thomas Was Alone",
+    "score": 69,
+    "url": "https://www.metacritic.com/game/playstation-4/thomas-was-alone"
+  },
+  {
+    "platform": "PS4",
     "title": "Chronos: Before the Ashes",
     "score": 68,
     "url": "https://www.metacritic.com/game/playstation-4/chronos-before-the-ashes"
@@ -1522,12 +1600,6 @@
     "title": "Enigmatis: The Ghosts of Maple Creek",
     "score": 68,
     "url": "https://www.metacritic.com/game/playstation-4/enigmatis-the-ghosts-of-maple-creek"
-  },
-  {
-    "platform": "PS4",
-    "title": "Mafia III: Definitive Edition",
-    "score": 68,
-    "url": "https://www.metacritic.com/game/playstation-4/mafia-iii"
   },
   {
     "platform": "PS4",
@@ -1564,6 +1636,12 @@
     "title": "How to Survive 2",
     "score": 67,
     "url": "https://www.metacritic.com/game/playstation-4/how-to-survive-2"
+  },
+  {
+    "platform": "PS5",
+    "title": "Maneater",
+    "score": 67,
+    "url": "https://www.metacritic.com/game/playstation-5/maneater"
   },
   {
     "platform": "PS4",
@@ -1615,18 +1693,6 @@
   },
   {
     "platform": "PS4",
-    "title": "Thomas Was Alone",
-    "score": 67,
-    "url": "https://www.metacritic.com/game/playstation-4/thomas-was-alone"
-  },
-  {
-    "platform": "PS4",
-    "title": "Victor Vran: Overkill Edition",
-    "score": 67,
-    "url": "https://www.metacritic.com/game/playstation-4/victor-vran"
-  },
-  {
-    "platform": "PS4",
     "title": "Vikings - Wolves of Midgard",
     "score": 67,
     "url": "https://www.metacritic.com/game/playstation-4/vikings---wolves-of-midgard"
@@ -1642,12 +1708,6 @@
     "title": "Leo's Fortune",
     "score": 66,
     "url": "https://www.metacritic.com/game/playstation-4/leos-fortune"
-  },
-  {
-    "platform": "PS5",
-    "title": "Maneater",
-    "score": 66,
-    "url": "https://www.metacritic.com/game/playstation-5/maneater"
   },
   {
     "platform": "PS4",
@@ -1777,6 +1837,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Victor Vran: Overkill Edition",
+    "score": 64,
+    "url": "https://www.metacritic.com/game/playstation-4/victor-vran"
+  },
+  {
+    "platform": "PS4",
     "title": "Windbound",
     "score": 64,
     "url": "https://www.metacritic.com/game/playstation-4/windbound"
@@ -1825,6 +1891,12 @@
   },
   {
     "platform": "PS4",
+    "title": "PAW Patrol: On a Roll",
+    "score": 63,
+    "url": "https://www.metacritic.com/game/playstation-4/paw-patrol-on-a-roll"
+  },
+  {
+    "platform": "PS4",
     "title": "Space Junkies",
     "score": 63,
     "url": "https://www.metacritic.com/game/playstation-4/space-junkies"
@@ -1846,6 +1918,12 @@
     "title": "Whispering Willows",
     "score": 63,
     "url": "https://www.metacritic.com/game/playstation-4/whispering-willows"
+  },
+  {
+    "platform": "PS4",
+    "title": "Adventure Time: Pirates of the Enchiridion",
+    "score": 62,
+    "url": "https://www.metacritic.com/game/playstation-4/adventure-time-pirates-of-the-enchiridion"
   },
   {
     "platform": "PS4",
@@ -1906,12 +1984,6 @@
     "title": "Naruto to Boruto: Shinobi Striker",
     "score": 61,
     "url": "https://www.metacritic.com/game/playstation-4/naruto-to-boruto-shinobi-striker"
-  },
-  {
-    "platform": "PS4",
-    "title": "PAW Patrol: On a Roll",
-    "score": 61,
-    "url": "https://www.metacritic.com/game/playstation-4/paw-patrol-on-a-roll"
   },
   {
     "platform": "PS4",
@@ -2107,6 +2179,12 @@
   },
   {
     "platform": "PS4",
+    "title": "Hello Neighbor",
+    "score": 54,
+    "url": "https://www.metacritic.com/game/playstation-4/hello-neighbor"
+  },
+  {
+    "platform": "PS4",
     "title": "Knack",
     "score": 54,
     "url": "https://www.metacritic.com/game/playstation-4/knack"
@@ -2134,12 +2212,6 @@
     "title": "Fallout 76",
     "score": 53,
     "url": "https://www.metacritic.com/game/playstation-4/fallout-76"
-  },
-  {
-    "platform": "PS4",
-    "title": "Hello Neighbor",
-    "score": 53,
-    "url": "https://www.metacritic.com/game/playstation-4/hello-neighbor"
   },
   {
     "platform": "PS4",
@@ -2262,16 +2334,16 @@
     "url": "https://www.metacritic.com/game/playstation-4/rapala-fishing-pro-series"
   },
   {
-    "platform": "PS5",
-    "title": "Dead by Daylight",
-    "score": 32,
-    "url": "https://www.metacritic.com/game/playstation-5/dead-by-daylight"
-  },
-  {
     "platform": "PS4",
     "title": "TorqueL",
     "score": 32,
     "url": "https://www.metacritic.com/game/playstation-4/torquel"
+  },
+  {
+    "platform": "PS5",
+    "title": "Dead by Daylight",
+    "score": 31,
+    "url": "https://www.metacritic.com/game/playstation-5/dead-by-daylight"
   },
   {
     "platform": "PS4",
@@ -2287,15 +2359,15 @@
   },
   {
     "platform": "PS4",
-    "title": "Harvest Moon: Light of Hope",
-    "score": 16,
-    "url": "https://www.metacritic.com/game/playstation-4/harvest-moon-light-of-hope"
+    "title": "Unturned",
+    "score": 17,
+    "url": "https://www.metacritic.com/game/playstation-4/unturned"
   },
   {
     "platform": "PS4",
-    "title": "Unturned",
+    "title": "Harvest Moon: Light of Hope",
     "score": 16,
-    "url": "https://www.metacritic.com/game/playstation-4/unturned"
+    "url": "https://www.metacritic.com/game/playstation-4/harvest-moon-light-of-hope"
   },
   {
     "platform": "PS4",
@@ -2314,6 +2386,12 @@
     "title": "Assassin's Creed: Freedom Cry",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/assassins-creed-freedom-cry"
+  },
+  {
+    "platform": "PS5",
+    "title": "Ben 10: Power Trip",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-5/ben-10-power-trip"
   },
   {
     "platform": "PS4",
@@ -2406,16 +2484,16 @@
     "url": "https://www.metacritic.com/game/playstation-4/ghost-recon-breakpoint"
   },
   {
+    "platform": "PS4",
+    "title": "Gigantosaurus The Game",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-4/gigantosaurus-the-game"
+  },
+  {
     "platform": "PS5",
     "title": "Grand Theft Auto: Vice City - Definitive Edition",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-5/grand-theft-auto"
-  },
-  {
-    "platform": "PS5",
-    "title": "GreedFall",
-    "score": 0,
-    "url": "https://www.metacritic.com/game/playstation-5/greedfall"
   },
   {
     "platform": "PS4",
@@ -2488,6 +2566,12 @@
     "title": "Monopoly Madness",
     "score": 0,
     "url": "https://www.metacritic.com/game/playstation-4/monopoly-madness"
+  },
+  {
+    "platform": "PS5",
+    "title": "Mortal Shell: Enhanced Edition",
+    "score": 0,
+    "url": "https://www.metacritic.com/game/playstation-5/mortal-shell"
   },
   {
     "platform": "PS4",
